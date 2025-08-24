@@ -35,6 +35,8 @@ interface AuthContextType {
   signOut: () => Promise<void>;
   resetPassword: (email: string) => Promise<void>;
   refreshUserClaims: () => Promise<void>;
+  signInWithGoogle: () => Promise<void>;
+  signInWithGithub: () => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -127,6 +129,18 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     }
   };
 
+  const signInWithGoogle = async () => {
+    // Mock implementation for Google sign-in
+    console.log('Google sign-in not implemented');
+    throw new Error('Google sign-in not implemented');
+  };
+
+  const signInWithGithub = async () => {
+    // Mock implementation for GitHub sign-in
+    console.log('GitHub sign-in not implemented');
+    throw new Error('GitHub sign-in not implemented');
+  };
+
   const value: AuthContextType = {
     user,
     loading,
@@ -135,6 +149,8 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     signOut,
     resetPassword,
     refreshUserClaims,
+    signInWithGoogle,
+    signInWithGithub,
   };
 
   return (
