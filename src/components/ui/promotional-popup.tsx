@@ -13,12 +13,12 @@ export function PromotionalPopup({ onClose }: PromotionalPopupProps) {
   const [isClosing, setIsClosing] = useState(false);
 
   useEffect(() => {
-    // Check if popup should be shown (not dismissed in last 60 days)
+    // Check if popup should be shown (not dismissed in last 10 minutes)
     const lastDismissed = localStorage.getItem('be-promo-popup-dismissed');
     const now = Date.now();
-    const sixtyDaysInMs = 60 * 24 * 60 * 60 * 1000; // 60 days in milliseconds
+    const tenMinutesInMs = 10 * 60 * 1000; // 10 minutes in milliseconds
 
-    if (!lastDismissed || (now - parseInt(lastDismissed)) > sixtyDaysInMs) {
+    if (!lastDismissed || (now - parseInt(lastDismissed)) > tenMinutesInMs) {
       // Show popup after a short delay
       const timer = setTimeout(() => {
         setIsVisible(true);

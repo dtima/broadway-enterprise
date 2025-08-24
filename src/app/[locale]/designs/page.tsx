@@ -65,7 +65,7 @@ const mockDesigns: LabDesign[] = [
     title: 'Basic Science Laboratory Package',
     description: 'Entry-level laboratory design perfect for primary and secondary schools starting their science programs. Cost-effective and safe.',
     category: 'physics',
-    images: ['/images/designs/design1.jpeg'],
+    images: ['/images/designs/design3.jpeg'],
     specifications: {
       'Recommended Area': '300-500 sq ft',
       'Student Capacity': '20-25 students',
@@ -83,7 +83,7 @@ const mockDesigns: LabDesign[] = [
     title: 'Premium Research Laboratory Design',
     description: 'High-end laboratory design for advanced research and university-level education. Includes cutting-edge equipment and technology.',
     category: 'engineering',
-    images: ['/images/designs/design2.jpeg'],
+    images: ['/images/designs/design4.jpeg'],
     specifications: {
       'Recommended Area': '800-1200 sq ft',
       'Student Capacity': '15-20 researchers',
@@ -101,7 +101,7 @@ const mockDesigns: LabDesign[] = [
     title: 'Computer Science & Engineering Lab',
     description: 'Modern computer laboratory with integrated hardware stations for programming, robotics, and engineering projects.',
     category: 'computer-science',
-    images: ['/images/designs/design1.jpeg'],
+    images: ['/images/designs/design5.jpeg'],
     specifications: {
       'Recommended Area': '500-700 sq ft',
       'Student Capacity': '25-30 students',
@@ -119,7 +119,7 @@ const mockDesigns: LabDesign[] = [
     title: 'Biology & Life Sciences Laboratory',
     description: 'Specialized biology laboratory with microscopy stations, specimen storage, and life sciences equipment for comprehensive study.',
     category: 'biology',
-    images: ['/images/designs/design2.jpeg'],
+    images: ['/images/designs/design1.jpeg'],
     specifications: {
       'Recommended Area': '500-750 sq ft',
       'Student Capacity': '20-28 students',
