@@ -26,7 +26,7 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({
       success: true,
       data: {
-        id: submission.id,
+        id: submission,
         message: 'Contact form submitted successfully',
       },
     }, {

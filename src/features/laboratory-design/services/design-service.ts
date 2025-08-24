@@ -1,4 +1,4 @@
-import { collection, getDocs, doc, getDoc, query, where, orderBy, limit } from 'firebase/firestore';
+import { collection, getDocs, doc, getDoc, query, where, orderBy, limit as firestoreLimit } from 'firebase/firestore';
 import { db } from '@/lib/firebase/config';
 import type { LabDesign, CaseStudy, PaginatedResponse, PaginationParams } from '@/types';
 
@@ -16,7 +16,7 @@ export class DesignService {
       }
 
       if (params?.limit) {
-        q = query(q, limit(params.limit));
+        q = query(q, firestoreLimit(params.limit));
       }
 
       const snapshot = await getDocs(q);
@@ -81,7 +81,7 @@ export class DesignService {
     }
   }
 
-  static async getFeaturedDesigns(limit: number = 6): Promise<LabDesign[]> {
+  static async getFeaturedDesigns(limitCount: number = 6): Promise<LabDesign[]> {
     try {
       const designsRef = collection(db, this.COLLECTION_NAME);
       const q = query(
@@ -89,7 +89,7 @@ export class DesignService {
         where('featured', '==', true),
         where('published', '==', true),
         orderBy('createdAt', 'desc'),
-        limit(limit)
+        firestoreLimit(limitCount)
       );
 
       const snapshot = await getDocs(q);

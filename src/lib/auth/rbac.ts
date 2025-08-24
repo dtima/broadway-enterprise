@@ -71,7 +71,7 @@ export function hasAllPermissions(userPermissions: string[], requiredPermissions
 }
 
 export function getRolePermissions(role: Role): Permission[] {
-  return ROLE_PERMISSIONS[role] || [];
+  return [...(ROLE_PERMISSIONS[role] || [])];
 }
 
 export function canAccessAdminPanel(userRole?: Role): boolean {

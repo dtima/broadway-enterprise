@@ -122,7 +122,7 @@ export class EquipmentService {
     }
   }
 
-  static async getFeaturedProducts(limit: number = 6): Promise<Product[]> {
+  static async getFeaturedProducts(limitCount: number = 6): Promise<Product[]> {
     try {
       const productsRef = collection(db, this.COLLECTION_NAME);
       const q = query(
@@ -130,7 +130,7 @@ export class EquipmentService {
         where('featured', '==', true),
         where('published', '==', true),
         orderBy('createdAt', 'desc'),
-        firestoreLimit(limit)
+        firestoreLimit(limitCount)
       );
 
       const snapshot = await getDocs(q);

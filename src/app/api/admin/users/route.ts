@@ -14,6 +14,15 @@ const UpdateUserRoleSchema = z.object({
 
 export async function GET(request: NextRequest) {
   try {
+    // Check if Firebase Admin is available
+    if (!adminAuth) {
+      return NextResponse.json({
+        success: false,
+        error: 'Firebase Admin not configured',
+        code: 'SERVICE_UNAVAILABLE',
+      }, { status: 503 });
+    }
+
     // Verify admin authentication
     const authResult = await verifyAdminAuth(request);
     if (!authResult.success) {
@@ -30,7 +39,7 @@ export async function GET(request: NextRequest) {
 
     const listUsersResult = await adminAuth.listUsers(maxResults, pageToken);
     
-    const users = listUsersResult.users.map(userRecord => ({
+    const users = listUsersResult.users.map((userRecord: any) => ({
       uid: userRecord.uid,
       email: userRecord.email,
       displayName: userRecord.displayName,
@@ -59,6 +68,15 @@ export async function GET(request: NextRequest) {
 
 export async function PATCH(request: NextRequest) {
   try {
+    // Check if Firebase Admin is available
+    if (!adminAuth) {
+      return NextResponse.json({
+        success: false,
+        error: 'Firebase Admin not configured',
+        code: 'SERVICE_UNAVAILABLE',
+      }, { status: 503 });
+    }
+
     // Verify admin authentication
     const authResult = await verifyAdminAuth(request);
     if (!authResult.success) {

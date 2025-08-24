@@ -6,8 +6,8 @@ import { handleApiError } from '@/lib/api/error-handler';
 import { corsHeaders } from '@/lib/api/cors';
 
 const GetEquipmentSchema = z.object({
-  page: z.string().optional().transform(val => val ? parseInt(val, 10) : 1),
-  limit: z.string().optional().transform(val => val ? parseInt(val, 10) : 10),
+  page: z.coerce.number().default(1),
+  limit: z.coerce.number().default(10),
   category: z.string().optional(),
   sortBy: z.enum(['name', 'price', 'createdAt']).optional(),
   sortOrder: z.enum(['asc', 'desc']).optional(),

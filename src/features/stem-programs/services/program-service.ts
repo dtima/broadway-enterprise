@@ -1,4 +1,4 @@
-import { collection, getDocs, doc, getDoc, query, where, orderBy, limit } from 'firebase/firestore';
+import { collection, getDocs, doc, getDoc, query, where, orderBy, limit as firestoreLimit } from 'firebase/firestore';
 import { db } from '@/lib/firebase/config';
 import type { StemProgram, PaginatedResponse, PaginationParams } from '@/types';
 
@@ -15,7 +15,7 @@ export class ProgramService {
       }
 
       if (params?.limit) {
-        q = query(q, limit(params.limit));
+        q = query(q, firestoreLimit(params.limit));
       }
 
       const snapshot = await getDocs(q);
@@ -80,7 +80,7 @@ export class ProgramService {
     }
   }
 
-  static async getFeaturedPrograms(limit: number = 6): Promise<StemProgram[]> {
+  static async getFeaturedPrograms(limitCount: number = 6): Promise<StemProgram[]> {
     try {
       const programsRef = collection(db, this.COLLECTION_NAME);
       const q = query(
@@ -88,7 +88,7 @@ export class ProgramService {
         where('featured', '==', true),
         where('published', '==', true),
         orderBy('createdAt', 'desc'),
-        limit(limit)
+        firestoreLimit(limitCount)
       );
 
       const snapshot = await getDocs(q);

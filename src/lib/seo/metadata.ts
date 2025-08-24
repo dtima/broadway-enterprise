@@ -45,7 +45,9 @@ export function generateMetadata(config: SEOConfig, locale: string = 'en'): Meta
     description,
     keywords: keywords.join(', '),
     robots: noIndex ? 'noindex,nofollow' : 'index,follow',
-    canonical: canonicalUrl,
+    alternates: {
+      canonical: canonicalUrl,
+    },
     
     // Open Graph
     openGraph: {
@@ -62,7 +64,7 @@ export function generateMetadata(config: SEOConfig, locale: string = 'en'): Meta
         }
       ],
       locale: locale === 'en' ? 'en_US' : 'fr_FR',
-      type: ogType
+      type: ogType === 'product' ? 'website' : ogType
     },
 
     // Twitter
