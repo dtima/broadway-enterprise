@@ -1,0 +1,191 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isAdmin() {
+      return isAuthenticated() && request.auth.token.role == 'admin';
+    }
+    
+    function isEditor() {
+      return isAuthenticated() && request.auth.token.role == 'editor';
+    }
+    
+    function isOwner(resource) {
+      return isAuthenticated() && request.auth.uid == resource.data.createdBy;
+    }
+    
+    function hasPermission(permission) {
+      return isAuthenticated() && 
+             request.auth.token.permissions != null &&
+             permission in request.auth.token.permissions;
+    }
+
+    // Products collection
+    match /products/{productId} {
+      // Public read access for published products
+      allow read: if resource.data.published == true;
+      
+      // Admin and editors can read all products
+      allow read: if isAdmin() || isEditor();
+      
+      // Create products - admin and editors with permission
+      allow create: if (isAdmin() || hasPermission('create:product')) &&
+                    validateProductData();
+      
+      // Update products - admin, editors with permission, or owner
+      allow update: if (isAdmin() || 
+                       hasPermission('update:product') || 
+                       isOwner(resource)) &&
+                    validateProductData();
+      
+      // Delete products - admin only
+      allow delete: if isAdmin() || hasPermission('delete:product');
+      
+      function validateProductData() {
+        let data = request.resource.data;
+        return data.keys().hasAll(['name', 'description', 'price', 'category', 'published']) &&
+               data.name is string && data.name.size() > 0 &&
+               data.description is string && data.description.size() > 0 &&
+               data.price is number && data.price > 0 &&
+               data.category is string && data.category.size() > 0 &&
+               data.published is bool &&
+               data.createdAt is timestamp &&
+               data.updatedAt is timestamp;
+      }
+    }
+
+    // Product categories collection
+    match /productCategories/{categoryId} {
+      allow read: if true; // Public read access
+      allow write: if isAdmin() || hasPermission('manage:categories');
+    }
+
+    // Laboratory designs collection
+    match /laboratoryDesigns/{designId} {
+      // Public read access for published designs
+      allow read: if resource.data.published == true;
+      
+      // Admin and editors can read all designs
+      allow read: if isAdmin() || isEditor();
+      
+      // Create designs - admin and editors with permission
+      allow create: if (isAdmin() || hasPermission('create:design')) &&
+                    validateDesignData();
+      
+      // Update designs - admin, editors with permission, or owner
+      allow update: if (isAdmin() || 
+                       hasPermission('update:design') || 
+                       isOwner(resource)) &&
+                    validateDesignData();
+      
+      // Delete designs - admin only
+      allow delete: if isAdmin() || hasPermission('delete:design');
+      
+      function validateDesignData() {
+        let data = request.resource.data;
+        return data.keys().hasAll(['title', 'description', 'category', 'published']) &&
+               data.title is string && data.title.size() > 0 &&
+               data.description is string && data.description.size() > 0 &&
+               data.category is string && data.category.size() > 0 &&
+               data.published is bool &&
+               data.createdAt is timestamp &&
+               data.updatedAt is timestamp;
+      }
+    }
+
+    // STEM programs collection
+    match /stemPrograms/{programId} {
+      // Public read access for published programs
+      allow read: if resource.data.published == true;
+      
+      // Admin and editors can read all programs
+      allow read: if isAdmin() || isEditor();
+      
+      // Create programs - admin and editors with permission
+      allow create: if (isAdmin() || hasPermission('create:program')) &&
+                    validateProgramData();
+      
+      // Update programs - admin, editors with permission, or owner
+      allow update: if (isAdmin() || 
+                       hasPermission('update:program') || 
+                       isOwner(resource)) &&
+                    validateProgramData();
+      
+      // Delete programs - admin only
+      allow delete: if isAdmin() || hasPermission('delete:program');
+      
+      function validateProgramData() {
+        let data = request.resource.data;
+        return data.keys().hasAll(['title', 'description', 'category', 'published']) &&
+               data.title is string && data.title.size() > 0 &&
+               data.description is string && data.description.size() > 0 &&
+               data.category is string && data.category.size() > 0 &&
+               data.published is bool &&
+               data.createdAt is timestamp &&
+               data.updatedAt is timestamp;
+      }
+    }
+
+    // Contact submissions collection
+    match /contactSubmissions/{submissionId} {
+      // Users can create contact submissions
+      allow create: if validateContactData();
+      
+      // Admin and editors can read contact submissions
+      allow read: if isAdmin() || isEditor();
+      
+      // Admin can update/delete contact submissions
+      allow update, delete: if isAdmin();
+      
+      function validateContactData() {
+        let data = request.resource.data;
+        return data.keys().hasAll(['name', 'email', 'subject', 'message']) &&
+               data.name is string && data.name.size() > 0 &&
+               data.email is string && data.email.matches('.*@.*\\..*') &&
+               data.subject is string && data.subject.size() > 0 &&
+               data.message is string && data.message.size() > 0 &&
+               data.submittedAt is timestamp;
+      }
+    }
+
+    // User profiles collection
+    match /userProfiles/{userId} {
+      // Users can read/write their own profile
+      allow read, write: if isAuthenticated() && request.auth.uid == userId;
+      
+      // Admin can read all profiles
+      allow read: if isAdmin();
+      
+      // Admin can update user profiles for role management
+      allow update: if isAdmin() && validateUserProfileData();
+      
+      function validateUserProfileData() {
+        let data = request.resource.data;
+        return data.keys().hasAll(['email', 'displayName', 'role']) &&
+               data.email is string && data.email.matches('.*@.*\\..*') &&
+               data.displayName is string && data.displayName.size() > 0 &&
+               data.role in ['admin', 'editor', 'viewer'];
+      }
+    }
+
+    // Analytics and logs - admin only
+    match /analytics/{document=**} {
+      allow read, write: if isAdmin();
+    }
+    
+    match /systemLogs/{document=**} {
+      allow read: if isAdmin() || hasPermission('view:logs');
+      allow write: if false; // System-generated only
+    }
+
+    // Default deny rule
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

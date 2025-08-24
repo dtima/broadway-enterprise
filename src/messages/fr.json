@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "catalog": "Catalogue",
+    "designs": "Conceptions",
+    "stem": "Programmes STEM",
+    "laboratories": "Laboratoires",
+    "support": "Support",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Systèmes qui alimentent l'avenir de l'Afrique",
+      "subtitle": "Autonomiser l'éducation STEM grâce à la conception innovante de laboratoires, à l'équipement scientifique et aux environnements d'apprentissage immersifs à travers l'Afrique."
+    },
+    "hero": {
+      "cta": {
+        "primary": "Explorer l'équipement",
+        "secondary": "Nous contacter"
+      }
+    },
+    "services": {
+      "title": "Nos services principaux",
+      "subtitle": "Au-delà de l'infrastructure : une passerelle vers la découverte scientifique",
+      "labDesign": {
+        "title": "Conception de laboratoire",
+        "description": "Laboratoires scientifiques sur mesure avec technologie moderne et conception intelligente.",
+        "cta": "Voir les conceptions"
+      },
+      "equipment": {
+        "title": "Équipement scientifique",
+        "description": "Équipement scientifique moderne et durable pour les institutions éducatives.",
+        "cta": "Parcourir le catalogue"
+      },
+      "stem": {
+        "title": "Éducation STEM",
+        "description": "Programmes d'apprentissage pratique et initiatives de développement cognitif.",
+        "cta": "En savoir plus"
+      }
+    },
+    "audience": {
+      "title": "Qui nous servons",
+      "subtitle": "Ouvrir nos laboratoires aux scientifiques en herbe à travers l'Afrique",
+      "evening": {
+        "title": "Étudiants du soir",
+        "description": "Recherchant une expérience pratique pour compléter leurs études"
+      },
+      "enthusiasts": {
+        "title": "Passionnés de science",
+        "description": "Qui manquent d'accès à l'éducation formelle mais ont une passion pour la découverte"
+      },
+      "practical": {
+        "title": "Apprenants pratiques",
+        "description": "Ayant besoin de sessions supplémentaires grâce à des formats modernes et interactifs"
+      }
+    },
+    "cta": {
+      "title": "Prêt à transformer l'éducation STEM?",
+      "subtitle": "Contactez-nous aujourd'hui pour discuter de vos besoins en conception de laboratoire et équipement.",
+      "button": "Commencer"
+    }
+  },
+  "catalog": {
+    "title": "Catalogue d'équipement",
+    "description": "Parcourez notre collection complète d'équipements scientifiques et de fournitures de laboratoire."
+  },
+  "designs": {
+    "title": "Conceptions de laboratoire",
+    "description": "Explorez notre portfolio de conceptions de laboratoire personnalisées et d'études de cas."
+  },
+  "stem": {
+    "title": "Programmes STEM",
+    "description": "Découvrez nos programmes éducatifs conçus pour inspirer la prochaine génération de scientifiques."
+  },
+  "laboratories": {
+    "title": "Laboratoires Broadway",
+    "description": "Visitez nos installations de laboratoire de pointe et programmes d'accès."
+  },
+  "footer": {
+    "tagline": "Systèmes qui alimentent l'avenir de l'Afrique — Agriculture, Science, Technologie et Hospitalité",
+    "quickLinks": "Liens rapides",
+    "catalog": "Catalogue d'équipement",
+    "designs": "Conceptions de laboratoire",
+    "stemPrograms": "Programmes STEM",
+    "laboratories": "Laboratoires",
+    "support": "Support",
+    "technicalSupport": "Support technique",
+    "contact": "Nous contacter",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions de service",
+    "contactInfo": "Informations de contact"
+  }
+}

@@ -1,0 +1,5685 @@
+{
+  "categories": [
+    {
+      "id": "glassware",
+      "name": "Glassware",
+      "nameEn": "Glassware",
+      "nameFr": "Verrerie",
+      "icon": "🧪",
+      "description": "Laboratory glassware for precise measurements and reactions",
+      "descriptionFr": "Verrerie de laboratoire pour mesures précises et réactions"
+    },
+    {
+      "id": "measuring",
+      "name": "Measuring Equipment",
+      "nameEn": "Measuring Equipment",
+      "nameFr": "Équipement de mesure",
+      "icon": "⚖️",
+      "description": "Precision instruments for accurate measurements",
+      "descriptionFr": "Instruments de précision pour mesures exactes"
+    },
+    {
+      "id": "tools",
+      "name": "Lab Tools",
+      "nameEn": "Lab Tools",
+      "nameFr": "Outils de laboratoire",
+      "icon": "🔧",
+      "description": "Essential laboratory tools and equipment",
+      "descriptionFr": "Outils et équipements essentiels de laboratoire"
+    },
+    {
+      "id": "chemicals",
+      "name": "Chemicals",
+      "nameEn": "Chemicals",
+      "nameFr": "Produits chimiques",
+      "icon": "⚗️",
+      "description": "Laboratory chemicals and reagents",
+      "descriptionFr": "Produits chimiques et réactifs de laboratoire"
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "nameEn": "Electronics",
+      "nameFr": "Électronique",
+      "icon": "⚡",
+      "description": "Electronic instruments and devices",
+      "descriptionFr": "Instruments et appareils électroniques"
+    },
+    {
+      "id": "biology",
+      "name": "Biology Equipment",
+      "nameEn": "Biology Equipment",
+      "nameFr": "Équipement de biologie",
+      "icon": "🔬",
+      "description": "Biological research and study equipment",
+      "descriptionFr": "Équipement de recherche et d'étude biologique"
+    },
+    {
+      "id": "physics",
+      "name": "Physics Equipment",
+      "nameEn": "Physics Equipment",
+      "nameFr": "Équipement de physique",
+      "icon": "⚛️",
+      "description": "Physics laboratory instruments and apparatus",
+      "descriptionFr": "Instruments et appareils de laboratoire de physique"
+    }
+  ],
+  "items": [
+    {
+      "id": "volumetric-flask-250mls",
+      "nameEn": "Volumetric Flask 250mls",
+      "nameFr": "Volumetric Flask 250mls",
+      "description": "High-quality volumetric flask 250mls for laboratory use",
+      "descriptionFr": "Volumetric Flask 250mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "volumetric-flask-500mls",
+      "nameEn": "Volumetric Flask 500mls",
+      "nameFr": "Volumetric Flask 500mls",
+      "description": "High-quality volumetric flask 500mls for laboratory use",
+      "descriptionFr": "Volumetric Flask 500mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "volumetric-flask-1000mls",
+      "nameEn": "Volumetric flask 1000mls",
+      "nameFr": "Volumetric flask 1000mls",
+      "description": "High-quality volumetric flask 1000mls for laboratory use",
+      "descriptionFr": "Volumetric flask 1000mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "volumetric-flask-2000ml",
+      "nameEn": "Volumetric Flask 2000ml",
+      "nameFr": "Volumetric Flask 2000ml",
+      "description": "High-quality volumetric flask 2000ml for laboratory use",
+      "descriptionFr": "Volumetric Flask 2000ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "burettes-50mls-pinch",
+      "nameEn": "Burettes 50mls pinch",
+      "nameFr": "Burettes 50mls pinch",
+      "description": "High-quality burettes 50mls pinch for laboratory use",
+      "descriptionFr": "Burettes 50mls pinch de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "burettes-50mls-tap",
+      "nameEn": "Burettes 50mls tap",
+      "nameFr": "Burettes 50mls tap",
+      "description": "High-quality burettes 50mls tap for laboratory use",
+      "descriptionFr": "Burettes 50mls tap de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "burettes-50mls-teflon",
+      "nameEn": "Burettes 50mls Teflon",
+      "nameFr": "Burettes 50mls Teflon",
+      "description": "High-quality burettes 50mls teflon for laboratory use",
+      "descriptionFr": "Burettes 50mls Teflon de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pipettes-25mls",
+      "nameEn": "Pipettes 25mls",
+      "nameFr": "Pipettes 25mls",
+      "description": "High-quality pipettes 25mls for laboratory use",
+      "descriptionFr": "Pipettes 25mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pipettes-10ml",
+      "nameEn": "Pipettes 10ml",
+      "nameFr": "Pipettes 10ml",
+      "description": "High-quality pipettes 10ml for laboratory use",
+      "descriptionFr": "Pipettes 10ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conical-flasks-250mls",
+      "nameEn": "Conical flasks 250mls",
+      "nameFr": "Conical flasks 250mls",
+      "description": "High-quality conical flasks 250mls for laboratory use",
+      "descriptionFr": "Conical flasks 250mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conical-flask-100mls",
+      "nameEn": "Conical flask 100mls",
+      "nameFr": "Conical flask 100mls",
+      "description": "High-quality conical flask 100mls for laboratory use",
+      "descriptionFr": "Conical flask 100mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "beaker-100mls",
+      "nameEn": "Beaker 100mls",
+      "nameFr": "Beaker 100mls",
+      "description": "High-quality beaker 100mls for laboratory use",
+      "descriptionFr": "Beaker 100mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "beakers-250mls",
+      "nameEn": "Beakers 250mls",
+      "nameFr": "Beakers 250mls",
+      "description": "High-quality beakers 250mls for laboratory use",
+      "descriptionFr": "Beakers 250mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "beakers-1l",
+      "nameEn": "Beakers 1L",
+      "nameFr": "Beakers 1L",
+      "description": "High-quality beakers 1l for laboratory use",
+      "descriptionFr": "Beakers 1L de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "beakers-400600mls",
+      "nameEn": "Beakers 400-600mls",
+      "nameFr": "Beakers 400-600mls",
+      "description": "High-quality beakers 400-600mls for laboratory use",
+      "descriptionFr": "Beakers 400-600mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "reagent-bottles",
+      "nameEn": "Reagent Bottles",
+      "nameFr": "Reagent Bottles",
+      "description": "High-quality reagent bottles for laboratory use",
+      "descriptionFr": "Reagent Bottles de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "test-tubes",
+      "nameEn": "Test tubes",
+      "nameFr": "Test tubes",
+      "description": "High-quality test tubes for laboratory use",
+      "descriptionFr": "Test tubes de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "glass-stirring-rods",
+      "nameEn": "Glass stirring rods",
+      "nameFr": "Glass stirring rods",
+      "description": "High-quality glass stirring rods for laboratory use",
+      "descriptionFr": "Glass stirring rods de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "thermometer-01-colored",
+      "nameEn": "Thermometer 0.1° colored",
+      "nameFr": "Thermometer 0.1° colored",
+      "description": "High-quality thermometer 0.1° colored for laboratory use",
+      "descriptionFr": "Thermometer 0.1° colored de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "thermometer-01-mercury",
+      "nameEn": "Thermometer 0.1° Mercury",
+      "nameFr": "Thermometer 0.1° Mercury",
+      "description": "High-quality thermometer 0.1° mercury for laboratory use",
+      "descriptionFr": "Thermometer 0.1° Mercury de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "measuring-cylinders-10mls",
+      "nameEn": "Measuring Cylinders 10mls",
+      "nameFr": "Measuring Cylinders 10mls",
+      "description": "High-quality measuring cylinders 10mls for laboratory use",
+      "descriptionFr": "Measuring Cylinders 10mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "measuring-cylinders-25mls",
+      "nameEn": "Measuring Cylinders 25mls",
+      "nameFr": "Measuring Cylinders 25mls",
+      "description": "High-quality measuring cylinders 25mls for laboratory use",
+      "descriptionFr": "Measuring Cylinders 25mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "measuring-cylinders-50mls",
+      "nameEn": "Measuring Cylinders 50mls",
+      "nameFr": "Measuring Cylinders 50mls",
+      "description": "High-quality measuring cylinders 50mls for laboratory use",
+      "descriptionFr": "Measuring Cylinders 50mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "measuring-cylinders-100mls",
+      "nameEn": "Measuring Cylinders 100mls",
+      "nameFr": "Measuring Cylinders 100mls",
+      "description": "High-quality measuring cylinders 100mls for laboratory use",
+      "descriptionFr": "Measuring Cylinders 100mls de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "out-of-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "measuring-cylinders-1l",
+      "nameEn": "Measuring Cylinders 1L",
+      "nameFr": "Measuring Cylinders 1L",
+      "description": "High-quality measuring cylinders 1l for laboratory use",
+      "descriptionFr": "Measuring Cylinders 1L de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "boiling-tubes",
+      "nameEn": "Boiling tubes",
+      "nameFr": "Boiling tubes",
+      "description": "High-quality boiling tubes for laboratory use",
+      "descriptionFr": "Boiling tubes de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "test-tube-holders",
+      "nameEn": "Test tube holders",
+      "nameFr": "Test tube holders",
+      "description": "High-quality test tube holders for laboratory use",
+      "descriptionFr": "Test tube holders de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "separating-funnels-500ml",
+      "nameEn": "Separating Funnels 500ml",
+      "nameFr": "Separating Funnels 500ml",
+      "description": "High-quality separating funnels 500ml for laboratory use",
+      "descriptionFr": "Separating Funnels 500ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "beakers-2l",
+      "nameEn": "Beakers 2L",
+      "nameFr": "Beakers 2L",
+      "description": "High-quality beakers 2l for laboratory use",
+      "descriptionFr": "Beakers 2L de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conical-flask-50ml",
+      "nameEn": "Conical flask 50ml",
+      "nameFr": "Conical flask 50ml",
+      "description": "High-quality conical flask 50ml for laboratory use",
+      "descriptionFr": "Conical flask 50ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pipettes-5ml",
+      "nameEn": "Pipettes 5ml",
+      "nameFr": "Pipettes 5ml",
+      "description": "High-quality pipettes 5ml for laboratory use",
+      "descriptionFr": "Pipettes 5ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "round-bottom-flask-250ml",
+      "nameEn": "Round bottom flask 250ml",
+      "nameFr": "Round bottom flask 250ml",
+      "description": "High-quality round bottom flask 250ml for laboratory use",
+      "descriptionFr": "Round bottom flask 250ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "double-convex-lens",
+      "nameEn": "Double convex lens",
+      "nameFr": "Double convex lens",
+      "description": "High-quality double convex lens for laboratory use",
+      "descriptionFr": "Double convex lens de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "capillary-tubes",
+      "nameEn": "Capillary tubes",
+      "nameFr": "Capillary tubes",
+      "description": "High-quality capillary tubes for laboratory use",
+      "descriptionFr": "Capillary tubes de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "watch-glasses",
+      "nameEn": "Watch glasses",
+      "nameFr": "Watch glasses",
+      "description": "High-quality watch glasses for laboratory use",
+      "descriptionFr": "Watch glasses de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conical-flask-500ml",
+      "nameEn": "Conical flask 500ml",
+      "nameFr": "Conical flask 500ml",
+      "description": "High-quality conical flask 500ml for laboratory use",
+      "descriptionFr": "Conical flask 500ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "volumetric-flask-100ml",
+      "nameEn": "Volumetric flask 100ml",
+      "nameFr": "Volumetric flask 100ml",
+      "description": "High-quality volumetric flask 100ml for laboratory use",
+      "descriptionFr": "Volumetric flask 100ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pipettes-2ml",
+      "nameEn": "Pipettes 2ml",
+      "nameFr": "Pipettes 2ml",
+      "description": "High-quality pipettes 2ml for laboratory use",
+      "descriptionFr": "Pipettes 2ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "beakers-50ml",
+      "nameEn": "Beakers 50ml",
+      "nameFr": "Beakers 50ml",
+      "description": "High-quality beakers 50ml for laboratory use",
+      "descriptionFr": "Beakers 50ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "measuring-cylinder-250ml",
+      "nameEn": "Measuring cylinder 250ml",
+      "nameFr": "Measuring cylinder 250ml",
+      "description": "High-quality measuring cylinder 250ml for laboratory use",
+      "descriptionFr": "Measuring cylinder 250ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "separating-funnels-250ml",
+      "nameEn": "separating Funnels  250ml",
+      "nameFr": "separating Funnels  250ml",
+      "description": "High-quality separating funnels  250ml for laboratory use",
+      "descriptionFr": "separating Funnels  250ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conical-flask-with-tap",
+      "nameEn": "conical flask with tap",
+      "nameFr": "conical flask with tap",
+      "description": "High-quality conical flask with tap for laboratory use",
+      "descriptionFr": "conical flask with tap de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "test-tube-brushes",
+      "nameEn": "Test tube brushes",
+      "nameFr": "Test tube brushes",
+      "description": "High-quality test tube brushes for laboratory use",
+      "descriptionFr": "Test tube brushes de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "test-tube-racks",
+      "nameEn": "Test tube Racks",
+      "nameFr": "Test tube Racks",
+      "description": "High-quality test tube racks for laboratory use",
+      "descriptionFr": "Test tube Racks de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "crucibles-and-lids",
+      "nameEn": "Crucibles and lids",
+      "nameFr": "Crucibles and lids",
+      "description": "High-quality crucibles and lids for laboratory use",
+      "descriptionFr": "Crucibles and lids de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "spoon-shaped-spatula",
+      "nameEn": "Spoon shaped spatula",
+      "nameFr": "Spoon shaped spatula",
+      "description": "High-quality spoon shaped spatula for laboratory use",
+      "descriptionFr": "Spoon shaped spatula de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "bunsen-burner",
+      "nameEn": "Bunsen Burner",
+      "nameFr": "Bunsen Burner",
+      "description": "High-quality bunsen burner for laboratory use",
+      "descriptionFr": "Bunsen Burner de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "bunsen-burner-fisher",
+      "nameEn": "Bunsen Burner Fisher",
+      "nameFr": "Bunsen Burner Fisher",
+      "description": "High-quality bunsen burner fisher for laboratory use",
+      "descriptionFr": "Bunsen Burner Fisher de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "tripod-stand",
+      "nameEn": "Tripod Stand",
+      "nameFr": "Tripod Stand",
+      "description": "High-quality tripod stand for laboratory use",
+      "descriptionFr": "Tripod Stand de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "evaporating-dish",
+      "nameEn": "Evaporating Dish",
+      "nameFr": "Evaporating Dish",
+      "description": "High-quality evaporating dish for laboratory use",
+      "descriptionFr": "Evaporating Dish de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "spring-balance-1g",
+      "nameEn": "Spring Balance 1g",
+      "nameFr": "Spring Balance 1g",
+      "description": "High-quality spring balance 1g for laboratory use",
+      "descriptionFr": "Spring Balance 1g de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "newton-balance",
+      "nameEn": "Newton balance",
+      "nameFr": "Newton balance",
+      "description": "High-quality newton balance for laboratory use",
+      "descriptionFr": "Newton balance de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "electronic-balance-001",
+      "nameEn": "Electronic Balance 0.01",
+      "nameFr": "Electronic Balance 0.01",
+      "description": "High-quality electronic balance 0.01 for laboratory use",
+      "descriptionFr": "Electronic Balance 0.01 de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "electronic-balance-0001",
+      "nameEn": "Electronic Balance 0.001",
+      "nameFr": "Electronic Balance 0.001",
+      "description": "High-quality electronic balance 0.001 for laboratory use",
+      "descriptionFr": "Electronic Balance 0.001 de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "burette-tips",
+      "nameEn": "Burette Tips",
+      "nameFr": "Burette Tips",
+      "description": "High-quality burette tips for laboratory use",
+      "descriptionFr": "Burette Tips de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "burette-clips",
+      "nameEn": "Burette clips",
+      "nameFr": "Burette clips",
+      "description": "High-quality burette clips for laboratory use",
+      "descriptionFr": "Burette clips de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "burette-funnels-plastic",
+      "nameEn": "Burette Funnels plastic",
+      "nameFr": "Burette Funnels plastic",
+      "description": "High-quality burette funnels plastic for laboratory use",
+      "descriptionFr": "Burette Funnels plastic de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "litmus-blue-and-red",
+      "nameEn": "Litmus blue and red",
+      "nameFr": "Litmus blue and red",
+      "description": "High-quality litmus blue and red for laboratory use",
+      "descriptionFr": "Litmus blue and red de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "universal-indicator",
+      "nameEn": "Universal Indicator",
+      "nameFr": "Universal Indicator",
+      "description": "High-quality universal indicator for laboratory use",
+      "descriptionFr": "Universal Indicator de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "double-clamp",
+      "nameEn": "Double Clamp",
+      "nameFr": "Double Clamp",
+      "description": "High-quality double clamp for laboratory use",
+      "descriptionFr": "Double Clamp de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "complete-clamp-and-stand",
+      "nameEn": "Complete Clamp and stand",
+      "nameFr": "Complete Clamp and stand",
+      "description": "High-quality complete clamp and stand for laboratory use",
+      "descriptionFr": "Complete Clamp and stand de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "safety-googles",
+      "nameEn": "Safety Googles",
+      "nameFr": "Safety Googles",
+      "description": "High-quality safety googles for laboratory use",
+      "descriptionFr": "Safety Googles de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "safety-gloves",
+      "nameEn": "Safety Gloves",
+      "nameFr": "Safety Gloves",
+      "description": "High-quality safety gloves for laboratory use",
+      "descriptionFr": "Safety Gloves de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "burette-tubing-m",
+      "nameEn": "Burette Tubing /m",
+      "nameFr": "Burette Tubing /m",
+      "description": "High-quality burette tubing /m for laboratory use",
+      "descriptionFr": "Burette Tubing /m de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "plastic-measuring-cylinders-1l",
+      "nameEn": "Plastic Measuring cylinders 1L",
+      "nameFr": "Plastic Measuring cylinders 1L",
+      "description": "High-quality plastic measuring cylinders 1l for laboratory use",
+      "descriptionFr": "Plastic Measuring cylinders 1L de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "plastic-measuring-cylinders-500ml",
+      "nameEn": "Plastic Measuring cylinders 500ml",
+      "nameFr": "Plastic Measuring cylinders 500ml",
+      "description": "High-quality plastic measuring cylinders 500ml for laboratory use",
+      "descriptionFr": "Plastic Measuring cylinders 500ml de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "wash-bottles",
+      "nameEn": "Wash bottles",
+      "nameFr": "Wash bottles",
+      "description": "High-quality wash bottles for laboratory use",
+      "descriptionFr": "Wash bottles de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "round-bottom-suspension-cell",
+      "nameEn": "Round bottom suspension cell",
+      "nameFr": "Round bottom suspension cell",
+      "description": "High-quality round bottom suspension cell for laboratory use",
+      "descriptionFr": "Round bottom suspension cell de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "top-pan-balance",
+      "nameEn": "Top pan balance",
+      "nameFr": "Top pan balance",
+      "description": "High-quality top pan balance for laboratory use",
+      "descriptionFr": "Top pan balance de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pipettes-fillers",
+      "nameEn": "Pipettes fillers",
+      "nameFr": "Pipettes fillers",
+      "description": "High-quality pipettes fillers for laboratory use",
+      "descriptionFr": "Pipettes fillers de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "halogen-lamp",
+      "nameEn": "Halogen lamp",
+      "nameFr": "Halogen lamp",
+      "description": "High-quality halogen lamp for laboratory use",
+      "descriptionFr": "Halogen lamp de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "magnetic-stirrer",
+      "nameEn": "Magnetic stirrer",
+      "nameFr": "Magnetic stirrer",
+      "description": "High-quality magnetic stirrer for laboratory use",
+      "descriptionFr": "Magnetic stirrer de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "wire-gauze",
+      "nameEn": "Wire gauze",
+      "nameFr": "Wire gauze",
+      "description": "High-quality wire gauze for laboratory use",
+      "descriptionFr": "Wire gauze de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "out-of-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "morden-periodic-tables",
+      "nameEn": "Morden periodic tables",
+      "nameFr": "Morden periodic tables",
+      "description": "High-quality morden periodic tables for laboratory use",
+      "descriptionFr": "Morden periodic tables de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "crocodile-clips",
+      "nameEn": "Crocodile clips",
+      "nameFr": "Crocodile clips",
+      "description": "High-quality crocodile clips for laboratory use",
+      "descriptionFr": "Crocodile clips de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "weighing-boats-role",
+      "nameEn": "Weighing boats role",
+      "nameFr": "Weighing boats role",
+      "description": "High-quality weighing boats role for laboratory use",
+      "descriptionFr": "Weighing boats role de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "filter-papers-24m",
+      "nameEn": "Filter papers 24m",
+      "nameFr": "Filter papers 24m",
+      "description": "High-quality filter papers 24m for laboratory use",
+      "descriptionFr": "Filter papers 24m de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "micrometer-screw",
+      "nameEn": "micrometer screw",
+      "nameFr": "micrometer screw",
+      "description": "High-quality micrometer screw for laboratory use",
+      "descriptionFr": "micrometer screw de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "physical-weight-box",
+      "nameEn": "physical weight box",
+      "nameFr": "physical weight box",
+      "description": "High-quality physical weight box for laboratory use",
+      "descriptionFr": "physical weight box de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "droppers",
+      "nameEn": "droppers",
+      "nameFr": "droppers",
+      "description": "High-quality droppers for laboratory use",
+      "descriptionFr": "droppers de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "monocular-light-microscope",
+      "nameEn": "Monocular light Microscope",
+      "nameFr": "Monocular light Microscope",
+      "description": "High-quality monocular light microscope for laboratory use",
+      "descriptionFr": "Monocular light Microscope de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "monocular-electric-microscope",
+      "nameEn": "Monocular electric Microscope",
+      "nameFr": "Monocular electric Microscope",
+      "description": "High-quality monocular electric microscope for laboratory use",
+      "descriptionFr": "Monocular electric Microscope de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "dropping-pipettes",
+      "nameEn": "Dropping pipettes",
+      "nameFr": "Dropping pipettes",
+      "description": "High-quality dropping pipettes for laboratory use",
+      "descriptionFr": "Dropping pipettes de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "dropping-bottles",
+      "nameEn": "Dropping Bottles",
+      "nameFr": "Dropping Bottles",
+      "description": "High-quality dropping bottles for laboratory use",
+      "descriptionFr": "Dropping Bottles de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "forceps",
+      "nameEn": "Forceps",
+      "nameFr": "Forceps",
+      "description": "High-quality forceps for laboratory use",
+      "descriptionFr": "Forceps de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "mortar-and-pestles-plastic",
+      "nameEn": "Mortar and pestles plastic",
+      "nameFr": "Mortar and pestles plastic",
+      "description": "High-quality mortar and pestles plastic for laboratory use",
+      "descriptionFr": "Mortar and pestles plastic de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "petri-dishes",
+      "nameEn": "Petri Dishes",
+      "nameFr": "Petri Dishes",
+      "description": "High-quality petri dishes for laboratory use",
+      "descriptionFr": "Petri Dishes de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "prepared-slides",
+      "nameEn": "Prepared slides",
+      "nameFr": "Prepared slides",
+      "description": "High-quality prepared slides for laboratory use",
+      "descriptionFr": "Prepared slides de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "preserved-specimen",
+      "nameEn": "Preserved specimen",
+      "nameFr": "Preserved specimen",
+      "description": "High-quality preserved specimen for laboratory use",
+      "descriptionFr": "Preserved specimen de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "slide-covers",
+      "nameEn": "Slide covers",
+      "nameFr": "Slide covers",
+      "description": "High-quality slide covers for laboratory use",
+      "descriptionFr": "Slide covers de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "plain-slides",
+      "nameEn": "Plain slides",
+      "nameFr": "Plain slides",
+      "description": "High-quality plain slides for laboratory use",
+      "descriptionFr": "Plain slides de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "dissecting-set",
+      "nameEn": "Dissecting set",
+      "nameFr": "Dissecting set",
+      "description": "High-quality dissecting set for laboratory use",
+      "descriptionFr": "Dissecting set de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "dissecting-boards-35x30",
+      "nameEn": "Dissecting boards 35x30",
+      "nameFr": "Dissecting boards 35x30",
+      "description": "High-quality dissecting boards 35x30 for laboratory use",
+      "descriptionFr": "Dissecting boards 35x30 de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "hand-lens",
+      "nameEn": "Hand Lens",
+      "nameFr": "Hand Lens",
+      "description": "High-quality hand lens for laboratory use",
+      "descriptionFr": "Hand Lens de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "filter-paper",
+      "nameEn": "Filter Paper",
+      "nameFr": "Filter Paper",
+      "description": "High-quality filter paper for laboratory use",
+      "descriptionFr": "Filter Paper de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "electronic-stop-watches",
+      "nameEn": "Electronic Stop Watches",
+      "nameFr": "Electronic Stop Watches",
+      "description": "High-quality electronic stop watches for laboratory use",
+      "descriptionFr": "Electronic Stop Watches de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "human-skeleton-standard-size",
+      "nameEn": "Human skeleton standard size",
+      "nameFr": "Human skeleton standard size",
+      "description": "High-quality human skeleton standard size for laboratory use",
+      "descriptionFr": "Human skeleton standard size de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "human-heartskinear-model",
+      "nameEn": "Human heart/skin/ear model",
+      "nameFr": "Human heart/skin/ear model",
+      "description": "High-quality human heart/skin/ear model for laboratory use",
+      "descriptionFr": "Human heart/skin/ear model de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "human-skeleton-chart",
+      "nameEn": "Human skeleton chart",
+      "nameFr": "Human skeleton chart",
+      "description": "High-quality human skeleton chart for laboratory use",
+      "descriptionFr": "Human skeleton chart de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "human-heart-chart",
+      "nameEn": "Human heart chart",
+      "nameFr": "Human heart chart",
+      "description": "High-quality human heart chart for laboratory use",
+      "descriptionFr": "Human heart chart de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "electronic-binocular-microscope",
+      "nameEn": "Electronic binocular microscope",
+      "nameFr": "Electronic binocular microscope",
+      "description": "High-quality electronic binocular microscope for laboratory use",
+      "descriptionFr": "Electronic binocular microscope de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "syringe-5ml",
+      "nameEn": "Syringe 5ml",
+      "nameFr": "Syringe 5ml",
+      "description": "High-quality syringe 5ml for laboratory use",
+      "descriptionFr": "Syringe 5ml de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "chart-of-digestive-system",
+      "nameEn": "Chart of digestive system",
+      "nameFr": "Chart of digestive system",
+      "description": "High-quality chart of digestive system for laboratory use",
+      "descriptionFr": "Chart of digestive system de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "chart-of-human-body",
+      "nameEn": "Chart of human body",
+      "nameFr": "Chart of human body",
+      "description": "High-quality chart of human body for laboratory use",
+      "descriptionFr": "Chart of human body de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "chart-of-respiratory-system",
+      "nameEn": "Chart of respiratory system",
+      "nameFr": "Chart of respiratory system",
+      "description": "High-quality chart of respiratory system for laboratory use",
+      "descriptionFr": "Chart of respiratory system de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "chart-of-nervous-system",
+      "nameEn": "Chart of Nervous system",
+      "nameFr": "Chart of Nervous system",
+      "description": "High-quality chart of nervous system for laboratory use",
+      "descriptionFr": "Chart of Nervous system de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "syring-10ml",
+      "nameEn": "Syring 10ml",
+      "nameFr": "Syring 10ml",
+      "description": "High-quality syring 10ml for laboratory use",
+      "descriptionFr": "Syring 10ml de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "slide-containers",
+      "nameEn": "Slide containers",
+      "nameFr": "Slide containers",
+      "description": "High-quality slide containers for laboratory use",
+      "descriptionFr": "Slide containers de haute qualité pour usage en laboratoire",
+      "category": "biology",
+      "icon": "🔬",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "biology",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "meter-rules",
+      "nameEn": "Meter rules",
+      "nameFr": "Meter rules",
+      "description": "High-quality meter rules for laboratory use",
+      "descriptionFr": "Meter rules de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "mechanical-stop-watch",
+      "nameEn": "Mechanical stop watch",
+      "nameFr": "Mechanical stop watch",
+      "description": "High-quality mechanical stop watch for laboratory use",
+      "descriptionFr": "Mechanical stop watch de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "slotted-mass-5g",
+      "nameEn": "Slotted Mass 5g",
+      "nameFr": "Slotted Mass 5g",
+      "description": "High-quality slotted mass 5g for laboratory use",
+      "descriptionFr": "Slotted Mass 5g de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "slotted-masses-10gset",
+      "nameEn": "Slotted masses 10gset",
+      "nameFr": "Slotted masses 10gset",
+      "description": "High-quality slotted masses 10gset for laboratory use",
+      "descriptionFr": "Slotted masses 10gset de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "slotted-masses-20g-set",
+      "nameEn": "Slotted masses 20g set",
+      "nameFr": "Slotted masses 20g set",
+      "description": "High-quality slotted masses 20g set for laboratory use",
+      "descriptionFr": "Slotted masses 20g set de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "slotted-masses-50g-set",
+      "nameEn": "Slotted masses  50g set",
+      "nameFr": "Slotted masses  50g set",
+      "description": "High-quality slotted masses  50g set for laboratory use",
+      "descriptionFr": "Slotted masses  50g set de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "out-of-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "slotted-masses-100g-set",
+      "nameEn": "Slotted masses 100g set",
+      "nameFr": "Slotted masses 100g set",
+      "description": "High-quality slotted masses 100g set for laboratory use",
+      "descriptionFr": "Slotted masses 100g set de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pendulum-bobs",
+      "nameEn": "Pendulum bobs",
+      "nameFr": "Pendulum bobs",
+      "description": "High-quality pendulum bobs for laboratory use",
+      "descriptionFr": "Pendulum bobs de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "rectangular-glass-block",
+      "nameEn": "Rectangular glass block",
+      "nameFr": "Rectangular glass block",
+      "description": "High-quality rectangular glass block for laboratory use",
+      "descriptionFr": "Rectangular glass block de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "triangular-prisms",
+      "nameEn": "Triangular prisms",
+      "nameFr": "Triangular prisms",
+      "description": "High-quality triangular prisms for laboratory use",
+      "descriptionFr": "Triangular prisms de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "semicircular-glass-blocks",
+      "nameEn": "Semi-circular glass blocks",
+      "nameFr": "Semi-circular glass blocks",
+      "description": "High-quality semi-circular glass blocks for laboratory use",
+      "descriptionFr": "Semi-circular glass blocks de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "optical-pins",
+      "nameEn": "Optical pins",
+      "nameFr": "Optical pins",
+      "description": "High-quality optical pins for laboratory use",
+      "descriptionFr": "Optical pins de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "newton-balance-120",
+      "nameEn": "Newton balance",
+      "nameFr": "Newton balance",
+      "description": "High-quality newton balance for laboratory use",
+      "descriptionFr": "Newton balance de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "triple-harvard-balance",
+      "nameEn": "Triple Harvard balance",
+      "nameFr": "Triple Harvard balance",
+      "description": "High-quality triple harvard balance for laboratory use",
+      "descriptionFr": "Triple Harvard balance de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "micrometre-screw-gauge",
+      "nameEn": "Micrometre screw gauge",
+      "nameFr": "Micrometre screw gauge",
+      "description": "High-quality micrometre screw gauge for laboratory use",
+      "descriptionFr": "Micrometre screw gauge de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "vernier-calliper",
+      "nameEn": "Vernier calliper",
+      "nameFr": "Vernier calliper",
+      "description": "High-quality vernier calliper for laboratory use",
+      "descriptionFr": "Vernier calliper de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pulleys-one-way",
+      "nameEn": "Pulleys one way",
+      "nameFr": "Pulleys one way",
+      "description": "High-quality pulleys one way for laboratory use",
+      "descriptionFr": "Pulleys one way de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pulley-two-ways",
+      "nameEn": "Pulley two ways",
+      "nameFr": "Pulley two ways",
+      "description": "High-quality pulley two ways for laboratory use",
+      "descriptionFr": "Pulley two ways de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "pulleys-three-ways",
+      "nameEn": "Pulleys three ways",
+      "nameFr": "Pulleys three ways",
+      "description": "High-quality pulleys three ways for laboratory use",
+      "descriptionFr": "Pulleys three ways de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "voltmeter",
+      "nameEn": "Voltmeter",
+      "nameFr": "Voltmeter",
+      "description": "High-quality voltmeter for laboratory use",
+      "descriptionFr": "Voltmeter de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammeter",
+      "nameEn": "Ammeter",
+      "nameFr": "Ammeter",
+      "description": "High-quality ammeter for laboratory use",
+      "descriptionFr": "Ammeter de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "millimetre",
+      "nameEn": "Millimetre",
+      "nameFr": "Millimetre",
+      "description": "High-quality millimetre for laboratory use",
+      "descriptionFr": "Millimetre de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "out-of-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "milvoltmeter",
+      "nameEn": "Milvoltmeter",
+      "nameFr": "Milvoltmeter",
+      "description": "High-quality milvoltmeter for laboratory use",
+      "descriptionFr": "Milvoltmeter de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "turning-fork-set",
+      "nameEn": "Turning fork set",
+      "nameFr": "Turning fork set",
+      "description": "High-quality turning fork set for laboratory use",
+      "descriptionFr": "Turning fork set de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "rheostat",
+      "nameEn": "Rheostat",
+      "nameFr": "Rheostat",
+      "description": "High-quality rheostat for laboratory use",
+      "descriptionFr": "Rheostat de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "silnky-spring",
+      "nameEn": "Silnky spring",
+      "nameFr": "Silnky spring",
+      "description": "High-quality silnky spring for laboratory use",
+      "descriptionFr": "Silnky spring de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-wire",
+      "nameEn": "Copper wire",
+      "nameFr": "Copper wire",
+      "description": "High-quality copper wire for laboratory use",
+      "descriptionFr": "Copper wire de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "nichrome-wire",
+      "nameEn": "Nichrome wire",
+      "nameFr": "Nichrome wire",
+      "description": "High-quality nichrome wire for laboratory use",
+      "descriptionFr": "Nichrome wire de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "thermometer-lc",
+      "nameEn": "Thermometer l°C",
+      "nameFr": "Thermometer l°C",
+      "description": "High-quality thermometer l°c for laboratory use",
+      "descriptionFr": "Thermometer l°C de haute qualité pour usage en laboratoire",
+      "category": "measuring",
+      "icon": "⚖️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "measuring",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-calorimeter",
+      "nameEn": "Copper calorimeter",
+      "nameFr": "Copper calorimeter",
+      "description": "High-quality copper calorimeter for laboratory use",
+      "descriptionFr": "Copper calorimeter de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "convex-lens",
+      "nameEn": "Convex lens",
+      "nameFr": "Convex lens",
+      "description": "High-quality convex lens for laboratory use",
+      "descriptionFr": "Convex lens de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "concave-lens",
+      "nameEn": "Concave lens",
+      "nameFr": "Concave lens",
+      "description": "High-quality concave lens for laboratory use",
+      "descriptionFr": "Concave lens de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "out-of-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "convex-mirror",
+      "nameEn": "Convex mirror",
+      "nameFr": "Convex mirror",
+      "description": "High-quality convex mirror for laboratory use",
+      "descriptionFr": "Convex mirror de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "concave-mirror",
+      "nameEn": "Concave mirror",
+      "nameFr": "Concave mirror",
+      "description": "High-quality concave mirror for laboratory use",
+      "descriptionFr": "Concave mirror de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "bar-magnet",
+      "nameEn": "Bar magnet",
+      "nameFr": "Bar magnet",
+      "description": "High-quality bar magnet for laboratory use",
+      "descriptionFr": "Bar magnet de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "horse-shoe-magnet",
+      "nameEn": "Horse shoe magnet",
+      "nameFr": "Horse shoe magnet",
+      "description": "High-quality horse shoe magnet for laboratory use",
+      "descriptionFr": "Horse shoe magnet de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "plain-mirror",
+      "nameEn": "Plain mirror",
+      "nameFr": "Plain mirror",
+      "description": "High-quality plain mirror for laboratory use",
+      "descriptionFr": "Plain mirror de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "gclams",
+      "nameEn": "G-clams",
+      "nameFr": "G-clams",
+      "description": "High-quality g-clams for laboratory use",
+      "descriptionFr": "G-clams de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lens-holders",
+      "nameEn": "Lens Holders",
+      "nameFr": "Lens Holders",
+      "description": "High-quality lens holders for laboratory use",
+      "descriptionFr": "Lens Holders de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "over-flow-can",
+      "nameEn": "Over flow can",
+      "nameFr": "Over flow can",
+      "description": "High-quality over flow can for laboratory use",
+      "descriptionFr": "Over flow can de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "plotting-compass",
+      "nameEn": "Plotting compass",
+      "nameFr": "Plotting compass",
+      "description": "High-quality plotting compass for laboratory use",
+      "descriptionFr": "Plotting compass de haute qualité pour usage en laboratoire",
+      "category": "physics",
+      "icon": "⚛️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "physics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "connecting-cables",
+      "nameEn": "Connecting cables",
+      "nameFr": "Connecting cables",
+      "description": "High-quality connecting cables for laboratory use",
+      "descriptionFr": "Connecting cables de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "iron-fillings-100g",
+      "nameEn": "Iron fillings 100G",
+      "nameFr": "Iron fillings 100G",
+      "description": "High-quality iron fillings 100g for laboratory use",
+      "descriptionFr": "Iron fillings 100G de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "galvanometer",
+      "nameEn": "Galvanometer",
+      "nameFr": "Galvanometer",
+      "description": "High-quality galvanometer for laboratory use",
+      "descriptionFr": "Galvanometer de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "dot-typing-time-meter",
+      "nameEn": "Dot typing time meter",
+      "nameFr": "Dot typing time meter",
+      "description": "High-quality dot typing time meter for laboratory use",
+      "descriptionFr": "Dot typing time meter de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "u-tube-manometer",
+      "nameEn": "U tube manometer",
+      "nameFr": "U tube manometer",
+      "description": "High-quality u tube manometer for laboratory use",
+      "descriptionFr": "U tube manometer de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "thumb-tacks",
+      "nameEn": "Thumb tacks",
+      "nameFr": "Thumb tacks",
+      "description": "High-quality thumb tacks for laboratory use",
+      "descriptionFr": "Thumb tacks de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "cells",
+      "nameEn": "Cells",
+      "nameFr": "Cells",
+      "description": "High-quality cells for laboratory use",
+      "descriptionFr": "Cells de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "glass-jar",
+      "nameEn": "Glass jar",
+      "nameFr": "Glass jar",
+      "description": "High-quality glass jar for laboratory use",
+      "descriptionFr": "Glass jar de haute qualité pour usage en laboratoire",
+      "category": "glassware",
+      "icon": "🧪",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "glassware",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "diods",
+      "nameEn": "Diods",
+      "nameFr": "Diods",
+      "description": "High-quality diods for laboratory use",
+      "descriptionFr": "Diods de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "transistors-pks",
+      "nameEn": "Transistors pks",
+      "nameFr": "Transistors pks",
+      "description": "High-quality transistors pks for laboratory use",
+      "descriptionFr": "Transistors pks de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "capacitors",
+      "nameEn": "Capacitors",
+      "nameFr": "Capacitors",
+      "description": "High-quality capacitors for laboratory use",
+      "descriptionFr": "Capacitors de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "plastic-cups-white",
+      "nameEn": "Plastic cups white",
+      "nameFr": "Plastic cups white",
+      "description": "High-quality plastic cups white for laboratory use",
+      "descriptionFr": "Plastic cups white de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "plastic-cups",
+      "nameEn": "Plastic cups",
+      "nameFr": "Plastic cups",
+      "description": "High-quality plastic cups for laboratory use",
+      "descriptionFr": "Plastic cups de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "resistors-pks",
+      "nameEn": "Resistors pks",
+      "nameFr": "Resistors pks",
+      "description": "High-quality resistors pks for laboratory use",
+      "descriptionFr": "Resistors pks de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ldr",
+      "nameEn": "LDR",
+      "nameFr": "LDR",
+      "description": "High-quality ldr for laboratory use",
+      "descriptionFr": "LDR de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "thermistors",
+      "nameEn": "Thermistors",
+      "nameFr": "Thermistors",
+      "description": "High-quality thermistors for laboratory use",
+      "descriptionFr": "Thermistors de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "led-pks",
+      "nameEn": "LED pks",
+      "nameFr": "LED pks",
+      "description": "High-quality led pks for laboratory use",
+      "descriptionFr": "LED pks de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potentiometers-pks",
+      "nameEn": "potentiometers pks",
+      "nameFr": "potentiometers pks",
+      "description": "High-quality potentiometers pks for laboratory use",
+      "descriptionFr": "potentiometers pks de haute qualité pour usage en laboratoire",
+      "category": "electronics",
+      "icon": "⚡",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "electronics",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-chloride",
+      "nameEn": "Sodium chloride.",
+      "nameFr": "Sodium chloride.",
+      "description": "High-quality sodium chloride. for laboratory use",
+      "descriptionFr": "Sodium chloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "anhydrous-sodium-carbonate",
+      "nameEn": "Anhydrous sodium carbonate.",
+      "nameFr": "Anhydrous sodium carbonate.",
+      "description": "High-quality anhydrous sodium carbonate. for laboratory use",
+      "descriptionFr": "Anhydrous sodium carbonate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-bicarbonate-nahco3",
+      "nameEn": "Sodium bicarbonate, NaHCO3",
+      "nameFr": "Sodium bicarbonate, NaHCO3",
+      "description": "High-quality sodium bicarbonate, nahco3 for laboratory use",
+      "descriptionFr": "Sodium bicarbonate, NaHCO3 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-oxalate",
+      "nameEn": "Sodium oxalate.",
+      "nameFr": "Sodium oxalate.",
+      "description": "High-quality sodium oxalate. for laboratory use",
+      "descriptionFr": "Sodium oxalate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-thiosulphate",
+      "nameEn": "Sodium thiosulphate.",
+      "nameFr": "Sodium thiosulphate.",
+      "description": "High-quality sodium thiosulphate. for laboratory use",
+      "descriptionFr": "Sodium thiosulphate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "anhydrous-sodium-sulphite",
+      "nameEn": "Anhydrous sodium sulphite.",
+      "nameFr": "Anhydrous sodium sulphite.",
+      "description": "High-quality anhydrous sodium sulphite. for laboratory use",
+      "descriptionFr": "Anhydrous sodium sulphite. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "borax-disodium-tetra-borate-na2b4",
+      "nameEn": "Borax (disodium tetra borate), Na2B4",
+      "nameFr": "Borax (disodium tetra borate), Na2B4",
+      "description": "High-quality borax (disodium tetra borate), na2b4 for laboratory use",
+      "descriptionFr": "Borax (disodium tetra borate), Na2B4 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "edta-disodium-salt",
+      "nameEn": "EDTA; disodium salt.",
+      "nameFr": "EDTA; disodium salt.",
+      "description": "High-quality edta; disodium salt. for laboratory use",
+      "descriptionFr": "EDTA; disodium salt. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-acetate",
+      "nameEn": "Sodium acetate.",
+      "nameFr": "Sodium acetate.",
+      "description": "High-quality sodium acetate. for laboratory use",
+      "descriptionFr": "Sodium acetate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-formate-dihydrate",
+      "nameEn": "Sodium formate dihydrate.",
+      "nameFr": "Sodium formate dihydrate.",
+      "description": "High-quality sodium formate dihydrate. for laboratory use",
+      "descriptionFr": "Sodium formate dihydrate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-sulphate-anhydrous",
+      "nameEn": "Sodium sulphate (Anhydrous).",
+      "nameFr": "Sodium sulphate (Anhydrous).",
+      "description": "High-quality sodium sulphate (anhydrous). for laboratory use",
+      "descriptionFr": "Sodium sulphate (Anhydrous). de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-hydrogensulphate-nahs04",
+      "nameEn": "Sodium hydrogensulphate, NaHS04.",
+      "nameFr": "Sodium hydrogensulphate, NaHS04.",
+      "description": "High-quality sodium hydrogensulphate, nahs04. for laboratory use",
+      "descriptionFr": "Sodium hydrogensulphate, NaHS04. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-nitrate",
+      "nameEn": "Sodium nitrate.",
+      "nameFr": "Sodium nitrate.",
+      "description": "High-quality sodium nitrate. for laboratory use",
+      "descriptionFr": "Sodium nitrate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-chlorate",
+      "nameEn": "Sodium chlorate.",
+      "nameFr": "Sodium chlorate.",
+      "description": "High-quality sodium chlorate. for laboratory use",
+      "descriptionFr": "Sodium chlorate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-chloride",
+      "nameEn": "Potassium chloride.",
+      "nameFr": "Potassium chloride.",
+      "description": "High-quality potassium chloride. for laboratory use",
+      "descriptionFr": "Potassium chloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-chromate",
+      "nameEn": "Potassium chromate.",
+      "nameFr": "Potassium chromate.",
+      "description": "High-quality potassium chromate. for laboratory use",
+      "descriptionFr": "Potassium chromate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-dichromate",
+      "nameEn": "Potassium dichromate.",
+      "nameFr": "Potassium dichromate.",
+      "description": "High-quality potassium dichromate. for laboratory use",
+      "descriptionFr": "Potassium dichromate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-permanganate",
+      "nameEn": "Potassium permanganate.",
+      "nameFr": "Potassium permanganate.",
+      "description": "High-quality potassium permanganate. for laboratory use",
+      "descriptionFr": "Potassium permanganate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-iodide",
+      "nameEn": "Potassium iodide.",
+      "nameFr": "Potassium iodide.",
+      "description": "High-quality potassium iodide. for laboratory use",
+      "descriptionFr": "Potassium iodide. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-iodate",
+      "nameEn": "Potassium iodate.",
+      "nameFr": "Potassium iodate.",
+      "description": "High-quality potassium iodate. for laboratory use",
+      "descriptionFr": "Potassium iodate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-chlorate",
+      "nameEn": "Potassium chlorate.",
+      "nameFr": "Potassium chlorate.",
+      "description": "High-quality potassium chlorate. for laboratory use",
+      "descriptionFr": "Potassium chlorate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-hydrogentatrate-khc4h406",
+      "nameEn": "Potassium hydrogentatrate; KHC4H406",
+      "nameFr": "Potassium hydrogentatrate; KHC4H406",
+      "description": "High-quality potassium hydrogentatrate; khc4h406 for laboratory use",
+      "descriptionFr": "Potassium hydrogentatrate; KHC4H406 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "out-of-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-carbonate",
+      "nameEn": "Potassium carbonate.",
+      "nameFr": "Potassium carbonate.",
+      "description": "High-quality potassium carbonate. for laboratory use",
+      "descriptionFr": "Potassium carbonate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-tetra-oxalate-kh3c20422h20",
+      "nameEn": "Potassium tetra oxalate; KH3(C204)2.2H20.",
+      "nameFr": "Potassium tetra oxalate; KH3(C204)2.2H20.",
+      "description": "High-quality potassium tetra oxalate; kh3(c204)2.2h20. for laboratory use",
+      "descriptionFr": "Potassium tetra oxalate; KH3(C204)2.2H20. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-nitrite",
+      "nameEn": "Potassium nitrite.",
+      "nameFr": "Potassium nitrite.",
+      "description": "High-quality potassium nitrite. for laboratory use",
+      "descriptionFr": "Potassium nitrite. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-aluminium-sulphate",
+      "nameEn": "Potassium aluminium sulphate.",
+      "nameFr": "Potassium aluminium sulphate.",
+      "description": "High-quality potassium aluminium sulphate. for laboratory use",
+      "descriptionFr": "Potassium aluminium sulphate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-persulphateperoxodisulph",
+      "nameEn": "Potassium persulphate(peroxodisulph)",
+      "nameFr": "Potassium persulphate(peroxodisulph)",
+      "description": "High-quality potassium persulphate(peroxodisulph) for laboratory use",
+      "descriptionFr": "Potassium persulphate(peroxodisulph) de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammonium-ironii-sulphate",
+      "nameEn": "Ammonium iron(II) sulphate",
+      "nameFr": "Ammonium iron(II) sulphate",
+      "description": "High-quality ammonium iron(ii) sulphate for laboratory use",
+      "descriptionFr": "Ammonium iron(II) sulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammonium-chloride",
+      "nameEn": "Ammonium chloride.",
+      "nameFr": "Ammonium chloride.",
+      "description": "High-quality ammonium chloride. for laboratory use",
+      "descriptionFr": "Ammonium chloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammonium-oxalate",
+      "nameEn": "Ammonium oxalate.",
+      "nameFr": "Ammonium oxalate.",
+      "description": "High-quality ammonium oxalate. for laboratory use",
+      "descriptionFr": "Ammonium oxalate. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammonium-chromate",
+      "nameEn": "Ammonium chromate.",
+      "nameFr": "Ammonium chromate.",
+      "description": "High-quality ammonium chromate. for laboratory use",
+      "descriptionFr": "Ammonium chromate. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammonium-acetate",
+      "nameEn": "Ammonium acetate.",
+      "nameFr": "Ammonium acetate.",
+      "description": "High-quality ammonium acetate. for laboratory use",
+      "descriptionFr": "Ammonium acetate. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammonium-formate",
+      "nameEn": "Ammonium formate.",
+      "nameFr": "Ammonium formate.",
+      "description": "High-quality ammonium formate. for laboratory use",
+      "descriptionFr": "Ammonium formate. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "aluminium-ammonium-sulphateal2s043nh42s0424h20",
+      "nameEn": "Aluminium ammonium sulphate,Al2(S04)3(NH4)2S04.24H20",
+      "nameFr": "Aluminium ammonium sulphate,Al2(S04)3(NH4)2S04.24H20",
+      "description": "High-quality aluminium ammonium sulphate,al2(s04)3(nh4)2s04.24h20 for laboratory use",
+      "descriptionFr": "Aluminium ammonium sulphate,Al2(S04)3(NH4)2S04.24H20 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "aluminium-oxide",
+      "nameEn": "Aluminium oxide",
+      "nameFr": "Aluminium oxide",
+      "description": "High-quality aluminium oxide for laboratory use",
+      "descriptionFr": "Aluminium oxide de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "strontium-nitrate-anhydrous",
+      "nameEn": "Strontium nitrate (Anhydrous).",
+      "nameFr": "Strontium nitrate (Anhydrous).",
+      "description": "High-quality strontium nitrate (anhydrous). for laboratory use",
+      "descriptionFr": "Strontium nitrate (Anhydrous). de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "strontium-chloride",
+      "nameEn": "Strontium chloride.",
+      "nameFr": "Strontium chloride.",
+      "description": "High-quality strontium chloride. for laboratory use",
+      "descriptionFr": "Strontium chloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "barium-chloride",
+      "nameEn": "Barium chloride.",
+      "nameFr": "Barium chloride.",
+      "description": "High-quality barium chloride. for laboratory use",
+      "descriptionFr": "Barium chloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "magnesium-sulphate-mgso47h20",
+      "nameEn": "Magnesium sulphate, MgSO4.7H20",
+      "nameFr": "Magnesium sulphate, MgSO4.7H20",
+      "description": "High-quality magnesium sulphate, mgso4.7h20 for laboratory use",
+      "descriptionFr": "Magnesium sulphate, MgSO4.7H20 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lithium-chloride",
+      "nameEn": "Lithium chloride.",
+      "nameFr": "Lithium chloride.",
+      "description": "High-quality lithium chloride. for laboratory use",
+      "descriptionFr": "Lithium chloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "low-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "calcium-hydroxide",
+      "nameEn": "Calcium hydroxide.",
+      "nameFr": "Calcium hydroxide.",
+      "description": "High-quality calcium hydroxide. for laboratory use",
+      "descriptionFr": "Calcium hydroxide. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "calcium-carbonate",
+      "nameEn": "Calcium carbonate.",
+      "nameFr": "Calcium carbonate.",
+      "description": "High-quality calcium carbonate. for laboratory use",
+      "descriptionFr": "Calcium carbonate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "calcium-chloride",
+      "nameEn": "Calcium chloride",
+      "nameFr": "Calcium chloride",
+      "description": "High-quality calcium chloride for laboratory use",
+      "descriptionFr": "Calcium chloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "mercury-ii-chloride",
+      "nameEn": "Mercury (II) chloride.",
+      "nameFr": "Mercury (II) chloride.",
+      "description": "High-quality mercury (ii) chloride. for laboratory use",
+      "descriptionFr": "Mercury (II) chloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-ii-sulphate-pentahydrate",
+      "nameEn": "Copper (II) sulphate pentahydrate.",
+      "nameFr": "Copper (II) sulphate pentahydrate.",
+      "description": "High-quality copper (ii) sulphate pentahydrate. for laboratory use",
+      "descriptionFr": "Copper (II) sulphate pentahydrate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "manganese-ii-chloride-mncl24h20",
+      "nameEn": "Manganese (II) chloride, MnCl2.4H20",
+      "nameFr": "Manganese (II) chloride, MnCl2.4H20",
+      "description": "High-quality manganese (ii) chloride, mncl2.4h20 for laboratory use",
+      "descriptionFr": "Manganese (II) chloride, MnCl2.4H20 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "nickel-ii-sulphate-hydratednis6",
+      "nameEn": "Nickel (II) sulphate (hydrated),NiS6",
+      "nameFr": "Nickel (II) sulphate (hydrated),NiS6",
+      "description": "High-quality nickel (ii) sulphate (hydrated),nis6 for laboratory use",
+      "descriptionFr": "Nickel (II) sulphate (hydrated),NiS6 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "silver-nitrate",
+      "nameEn": "Silver nitrate.",
+      "nameFr": "Silver nitrate.",
+      "description": "High-quality silver nitrate. for laboratory use",
+      "descriptionFr": "Silver nitrate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "tin-iv-chloride-pent-hydrate-snc",
+      "nameEn": "Tin (IV) chloride pent hydrate, SnC",
+      "nameFr": "Tin (IV) chloride pent hydrate, SnC",
+      "description": "High-quality tin (iv) chloride pent hydrate, snc for laboratory use",
+      "descriptionFr": "Tin (IV) chloride pent hydrate, SnC de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "zinc-sulphate",
+      "nameEn": "Zinc sulphate.",
+      "nameFr": "Zinc sulphate.",
+      "description": "High-quality zinc sulphate. for laboratory use",
+      "descriptionFr": "Zinc sulphate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "zinc-powder",
+      "nameEn": "Zinc powder.",
+      "nameFr": "Zinc powder.",
+      "description": "High-quality zinc powder. for laboratory use",
+      "descriptionFr": "Zinc powder. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "out-of-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "chromium-iii-sulphate-hydrated",
+      "nameEn": "Chromium (III) sulphate (hydrated).",
+      "nameFr": "Chromium (III) sulphate (hydrated).",
+      "description": "High-quality chromium (iii) sulphate (hydrated). for laboratory use",
+      "descriptionFr": "Chromium (III) sulphate (hydrated). de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lead-ii-nitrate",
+      "nameEn": "Lead (II) nitrate.",
+      "nameFr": "Lead (II) nitrate.",
+      "description": "High-quality lead (ii) nitrate. for laboratory use",
+      "descriptionFr": "Lead (II) nitrate. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lead-dioxide-pbo2",
+      "nameEn": "Lead dioxide; PbO2.",
+      "nameFr": "Lead dioxide; PbO2.",
+      "description": "High-quality lead dioxide; pbo2. for laboratory use",
+      "descriptionFr": "Lead dioxide; PbO2. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "phosphorus-pentachloride",
+      "nameEn": "Phosphorus pentachloride.",
+      "nameFr": "Phosphorus pentachloride.",
+      "description": "High-quality phosphorus pentachloride. for laboratory use",
+      "descriptionFr": "Phosphorus pentachloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "iodine-crystal",
+      "nameEn": "Iodine Crystal",
+      "nameFr": "Iodine Crystal",
+      "description": "High-quality iodine crystal for laboratory use",
+      "descriptionFr": "Iodine Crystal de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "hydrogen-peroxide",
+      "nameEn": "Hydrogen peroxide",
+      "nameFr": "Hydrogen peroxide",
+      "description": "High-quality hydrogen peroxide for laboratory use",
+      "descriptionFr": "Hydrogen peroxide de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ironii-sulphate-feso47h20",
+      "nameEn": "Iron(II) sulphate, FeSO4.7H20",
+      "nameFr": "Iron(II) sulphate, FeSO4.7H20",
+      "description": "High-quality iron(ii) sulphate, feso4.7h20 for laboratory use",
+      "descriptionFr": "Iron(II) sulphate, FeSO4.7H20 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ironiiichloride",
+      "nameEn": "Iron(III)chloride",
+      "nameFr": "Iron(III)chloride",
+      "description": "High-quality iron(iii)chloride for laboratory use",
+      "descriptionFr": "Iron(III)chloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-nitrate",
+      "nameEn": "Potassium nitrate",
+      "nameFr": "Potassium nitrate",
+      "description": "High-quality potassium nitrate for laboratory use",
+      "descriptionFr": "Potassium nitrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-nitrate-227",
+      "nameEn": "Sodium nitrate",
+      "nameFr": "Sodium nitrate",
+      "description": "High-quality sodium nitrate for laboratory use",
+      "descriptionFr": "Sodium nitrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "low-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-peroxydisulphate",
+      "nameEn": "Potassium Peroxydisulphate",
+      "nameFr": "Potassium Peroxydisulphate",
+      "description": "High-quality potassium peroxydisulphate for laboratory use",
+      "descriptionFr": "Potassium Peroxydisulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-hydrogen-sulphate",
+      "nameEn": "Potassium hydrogen sulphate",
+      "nameFr": "Potassium hydrogen sulphate",
+      "description": "High-quality potassium hydrogen sulphate for laboratory use",
+      "descriptionFr": "Potassium hydrogen sulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-peroxide",
+      "nameEn": "Potassium peroxide",
+      "nameFr": "Potassium peroxide",
+      "description": "High-quality potassium peroxide for laboratory use",
+      "descriptionFr": "Potassium peroxide de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-hydrogen-carbonate",
+      "nameEn": "Potassium hydrogen carbonate",
+      "nameFr": "Potassium hydrogen carbonate",
+      "description": "High-quality potassium hydrogen carbonate for laboratory use",
+      "descriptionFr": "Potassium hydrogen carbonate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "cromic-potassium-sulphate",
+      "nameEn": "Cromic Potassium sulphate",
+      "nameFr": "Cromic Potassium sulphate",
+      "description": "High-quality cromic potassium sulphate for laboratory use",
+      "descriptionFr": "Cromic Potassium sulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "calcium-iodide-tetrahydrate",
+      "nameEn": "Calcium iodide tetrahydrate",
+      "nameFr": "Calcium iodide tetrahydrate",
+      "description": "High-quality calcium iodide tetrahydrate for laboratory use",
+      "descriptionFr": "Calcium iodide tetrahydrate de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-ii-carbonate",
+      "nameEn": "Copper ii carbonate",
+      "nameFr": "Copper ii carbonate",
+      "description": "High-quality copper ii carbonate for laboratory use",
+      "descriptionFr": "Copper ii carbonate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-chloride",
+      "nameEn": "Copper chloride",
+      "nameFr": "Copper chloride",
+      "description": "High-quality copper chloride for laboratory use",
+      "descriptionFr": "Copper chloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-turning",
+      "nameEn": "Copper turning",
+      "nameFr": "Copper turning",
+      "description": "High-quality copper turning for laboratory use",
+      "descriptionFr": "Copper turning de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-oxide",
+      "nameEn": "Copper oxide",
+      "nameFr": "Copper oxide",
+      "description": "High-quality copper oxide for laboratory use",
+      "descriptionFr": "Copper oxide de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-i-oxide",
+      "nameEn": "Copper I oxide",
+      "nameFr": "Copper I oxide",
+      "description": "High-quality copper i oxide for laboratory use",
+      "descriptionFr": "Copper I oxide de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-metal",
+      "nameEn": "Copper metal",
+      "nameFr": "Copper metal",
+      "description": "High-quality copper metal for laboratory use",
+      "descriptionFr": "Copper metal de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-tertrate-dehydrate",
+      "nameEn": "Sodium tertrate dehydrate",
+      "nameFr": "Sodium tertrate dehydrate",
+      "description": "High-quality sodium tertrate dehydrate for laboratory use",
+      "descriptionFr": "Sodium tertrate dehydrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-persulphate",
+      "nameEn": "Sodium Persulphate",
+      "nameFr": "Sodium Persulphate",
+      "description": "High-quality sodium persulphate for laboratory use",
+      "descriptionFr": "Sodium Persulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-carbonate-decahydrate",
+      "nameEn": "Sodium carbonate decahydrate",
+      "nameFr": "Sodium carbonate decahydrate",
+      "description": "High-quality sodium carbonate decahydrate for laboratory use",
+      "descriptionFr": "Sodium carbonate decahydrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-formate",
+      "nameEn": "Sodium formate",
+      "nameFr": "Sodium formate",
+      "description": "High-quality sodium formate for laboratory use",
+      "descriptionFr": "Sodium formate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-potassium-terturate-4h20",
+      "nameEn": "Sodium potassium terturate 4H20",
+      "nameFr": "Sodium potassium terturate 4H20",
+      "description": "High-quality sodium potassium terturate 4h20 for laboratory use",
+      "descriptionFr": "Sodium potassium terturate 4H20 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-carbonate-hydrated",
+      "nameEn": "Sodium carbonate hydrated",
+      "nameFr": "Sodium carbonate hydrated",
+      "description": "High-quality sodium carbonate hydrated for laboratory use",
+      "descriptionFr": "Sodium carbonate hydrated de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-tetraborate",
+      "nameEn": "Sodium tetraborate",
+      "nameFr": "Sodium tetraborate",
+      "description": "High-quality sodium tetraborate for laboratory use",
+      "descriptionFr": "Sodium tetraborate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "trisodium-citrate-dehydrate",
+      "nameEn": "Tri-sodium citrate dehydrate",
+      "nameFr": "Tri-sodium citrate dehydrate",
+      "description": "High-quality tri-sodium citrate dehydrate for laboratory use",
+      "descriptionFr": "Tri-sodium citrate dehydrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ammonium-iron-ii-sulphate-8h20",
+      "nameEn": "Ammonium iron ii sulphate .8H20",
+      "nameFr": "Ammonium iron ii sulphate .8H20",
+      "description": "High-quality ammonium iron ii sulphate .8h20 for laboratory use",
+      "descriptionFr": "Ammonium iron ii sulphate .8H20 de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "aluminium-powder",
+      "nameEn": "Aluminium Powder",
+      "nameFr": "Aluminium Powder",
+      "description": "High-quality aluminium powder for laboratory use",
+      "descriptionFr": "Aluminium Powder de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "iron-powder",
+      "nameEn": "Iron powder",
+      "nameFr": "Iron powder",
+      "description": "High-quality iron powder for laboratory use",
+      "descriptionFr": "Iron powder de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "iron-ii-chloride",
+      "nameEn": "Iron ii chloride",
+      "nameFr": "Iron ii chloride",
+      "description": "High-quality iron ii chloride for laboratory use",
+      "descriptionFr": "Iron ii chloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "stannous-chloride",
+      "nameEn": "Stannous chloride",
+      "nameFr": "Stannous chloride",
+      "description": "High-quality stannous chloride for laboratory use",
+      "descriptionFr": "Stannous chloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "manganese-dichloride",
+      "nameEn": "Manganese dichloride",
+      "nameFr": "Manganese dichloride",
+      "description": "High-quality manganese dichloride for laboratory use",
+      "descriptionFr": "Manganese dichloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "glycine",
+      "nameEn": "Glycine",
+      "nameFr": "Glycine",
+      "description": "High-quality glycine for laboratory use",
+      "descriptionFr": "Glycine de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "tri-lead-tetraoxide",
+      "nameEn": "Tri lead tetraoxide",
+      "nameFr": "Tri lead tetraoxide",
+      "description": "High-quality tri lead tetraoxide for laboratory use",
+      "descriptionFr": "Tri lead tetraoxide de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "gelatine-powder",
+      "nameEn": "Gelatine powder",
+      "nameFr": "Gelatine powder",
+      "description": "High-quality gelatine powder for laboratory use",
+      "descriptionFr": "Gelatine powder de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "iodine-cystals",
+      "nameEn": "Iodine cystals",
+      "nameFr": "Iodine cystals",
+      "description": "High-quality iodine cystals for laboratory use",
+      "descriptionFr": "Iodine cystals de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lead-sulphate",
+      "nameEn": "Lead sulphate",
+      "nameFr": "Lead sulphate",
+      "description": "High-quality lead sulphate for laboratory use",
+      "descriptionFr": "Lead sulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "nickel-ii-nitrate",
+      "nameEn": "Nickel ii nitrate",
+      "nameFr": "Nickel ii nitrate",
+      "description": "High-quality nickel ii nitrate for laboratory use",
+      "descriptionFr": "Nickel ii nitrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ferrous-sulphate",
+      "nameEn": "Ferrous sulphate",
+      "nameFr": "Ferrous sulphate",
+      "description": "High-quality ferrous sulphate for laboratory use",
+      "descriptionFr": "Ferrous sulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "copper-granulesturning",
+      "nameEn": "Copper granules/turning",
+      "nameFr": "Copper granules/turning",
+      "description": "High-quality copper granules/turning for laboratory use",
+      "descriptionFr": "Copper granules/turning de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lead-ii-acetate-trihydrate",
+      "nameEn": "Lead ii acetate trihydrate",
+      "nameFr": "Lead ii acetate trihydrate",
+      "description": "High-quality lead ii acetate trihydrate for laboratory use",
+      "descriptionFr": "Lead ii acetate trihydrate de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "out-of-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-hydroxide-solution",
+      "nameEn": "Sodium hydroxide solution",
+      "nameFr": "Sodium hydroxide solution",
+      "description": "High-quality sodium hydroxide solution for laboratory use",
+      "descriptionFr": "Sodium hydroxide solution de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "darium-carbonate",
+      "nameEn": "Darium carbonate",
+      "nameFr": "Darium carbonate",
+      "description": "High-quality darium carbonate for laboratory use",
+      "descriptionFr": "Darium carbonate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "darium-sulphate",
+      "nameEn": "Darium sulphate",
+      "nameFr": "Darium sulphate",
+      "description": "High-quality darium sulphate for laboratory use",
+      "descriptionFr": "Darium sulphate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "tin-ii-chloride",
+      "nameEn": "tin ii chloride",
+      "nameFr": "tin ii chloride",
+      "description": "High-quality tin ii chloride for laboratory use",
+      "descriptionFr": "tin ii chloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conc-hydrochloric-acid",
+      "nameEn": "Conc. Hydrochloric acid.",
+      "nameFr": "Conc. Hydrochloric acid.",
+      "description": "High-quality conc. hydrochloric acid. for laboratory use",
+      "descriptionFr": "Conc. Hydrochloric acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conc-sulphuric-acid",
+      "nameEn": "Conc. Sulphuric acid.",
+      "nameFr": "Conc. Sulphuric acid.",
+      "description": "High-quality conc. sulphuric acid. for laboratory use",
+      "descriptionFr": "Conc. Sulphuric acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conc-nitric-acids",
+      "nameEn": "Conc. Nitric acids.",
+      "nameFr": "Conc. Nitric acids.",
+      "description": "High-quality conc. nitric acids. for laboratory use",
+      "descriptionFr": "Conc. Nitric acids. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "glacial-acetic-acid",
+      "nameEn": "Glacial acetic acid.",
+      "nameFr": "Glacial acetic acid.",
+      "description": "High-quality glacial acetic acid. for laboratory use",
+      "descriptionFr": "Glacial acetic acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ethanedioic-oxalic-acid",
+      "nameEn": "Ethanedioic (oxalic) acid.",
+      "nameFr": "Ethanedioic (oxalic) acid.",
+      "description": "High-quality ethanedioic (oxalic) acid. for laboratory use",
+      "descriptionFr": "Ethanedioic (oxalic) acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-hydroxide-pelettes",
+      "nameEn": "Sodium hydroxide Pelettes.",
+      "nameFr": "Sodium hydroxide Pelettes.",
+      "description": "High-quality sodium hydroxide pelettes. for laboratory use",
+      "descriptionFr": "Sodium hydroxide Pelettes. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "potassium-hydroxide",
+      "nameEn": "Potassium hydroxide.",
+      "nameFr": "Potassium hydroxide.",
+      "description": "High-quality potassium hydroxide. for laboratory use",
+      "descriptionFr": "Potassium hydroxide. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "calcium-hydroxide-274",
+      "nameEn": "Calcium hydroxide",
+      "nameFr": "Calcium hydroxide",
+      "description": "High-quality calcium hydroxide for laboratory use",
+      "descriptionFr": "Calcium hydroxide de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "conc-ammonia",
+      "nameEn": "Conc. Ammonia.",
+      "nameFr": "Conc. Ammonia.",
+      "description": "High-quality conc. ammonia. for laboratory use",
+      "descriptionFr": "Conc. Ammonia. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "carbon-tetrachloride",
+      "nameEn": "Carbon tetrachloride",
+      "nameFr": "Carbon tetrachloride",
+      "description": "High-quality carbon tetrachloride for laboratory use",
+      "descriptionFr": "Carbon tetrachloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "out-of-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "formic-acid",
+      "nameEn": "Formic acid",
+      "nameFr": "Formic acid",
+      "description": "High-quality formic acid for laboratory use",
+      "descriptionFr": "Formic acid de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lactic-acid",
+      "nameEn": "Lactic acid",
+      "nameFr": "Lactic acid",
+      "description": "High-quality lactic acid for laboratory use",
+      "descriptionFr": "Lactic acid de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lithium-nitrate",
+      "nameEn": "Lithium Nitrate",
+      "nameFr": "Lithium Nitrate",
+      "description": "High-quality lithium nitrate for laboratory use",
+      "descriptionFr": "Lithium Nitrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "low-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sulphamic-acid",
+      "nameEn": "sulphamic acid",
+      "nameFr": "sulphamic acid",
+      "description": "High-quality sulphamic acid for laboratory use",
+      "descriptionFr": "sulphamic acid de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "methyl-orange",
+      "nameEn": "Methyl orange.",
+      "nameFr": "Methyl orange.",
+      "description": "High-quality methyl orange. for laboratory use",
+      "descriptionFr": "Methyl orange. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "phenolphthalein",
+      "nameEn": "Phenolphthalein.",
+      "nameFr": "Phenolphthalein.",
+      "description": "High-quality phenolphthalein. for laboratory use",
+      "descriptionFr": "Phenolphthalein. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "methyl-red",
+      "nameEn": "Methyl red.",
+      "nameFr": "Methyl red.",
+      "description": "High-quality methyl red. for laboratory use",
+      "descriptionFr": "Methyl red. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "wurexide",
+      "nameEn": "Wurexide.",
+      "nameFr": "Wurexide.",
+      "description": "High-quality wurexide. for laboratory use",
+      "descriptionFr": "Wurexide. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "eriochrome-black-t",
+      "nameEn": "Eriochrome black T",
+      "nameFr": "Eriochrome black T",
+      "description": "High-quality eriochrome black t for laboratory use",
+      "descriptionFr": "Eriochrome black T de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "screened-methyl-orange",
+      "nameEn": "Screened methyl orange.",
+      "nameFr": "Screened methyl orange.",
+      "description": "High-quality screened methyl orange. for laboratory use",
+      "descriptionFr": "Screened methyl orange. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "mecuric-nitrate",
+      "nameEn": "Mecuric Nitrate",
+      "nameFr": "Mecuric Nitrate",
+      "description": "High-quality mecuric nitrate for laboratory use",
+      "descriptionFr": "Mecuric Nitrate de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "methyl-blue",
+      "nameEn": "Methyl blue",
+      "nameFr": "Methyl blue",
+      "description": "High-quality methyl blue for laboratory use",
+      "descriptionFr": "Methyl blue de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "out-of-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "aniline-hydrochloride",
+      "nameEn": "Aniline hydrochloride",
+      "nameFr": "Aniline hydrochloride",
+      "description": "High-quality aniline hydrochloride for laboratory use",
+      "descriptionFr": "Aniline hydrochloride de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "methanol",
+      "nameEn": "Methanol.",
+      "nameFr": "Methanol.",
+      "description": "High-quality methanol. for laboratory use",
+      "descriptionFr": "Methanol. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ethanol-pure",
+      "nameEn": "Ethanol (pure).",
+      "nameFr": "Ethanol (pure).",
+      "description": "High-quality ethanol (pure). for laboratory use",
+      "descriptionFr": "Ethanol (pure). de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "propan1o1-or-butan1o1",
+      "nameEn": "Propan-1-o1 or butan-1-o1.",
+      "nameFr": "Propan-1-o1 or butan-1-o1.",
+      "description": "High-quality propan-1-o1 or butan-1-o1. for laboratory use",
+      "descriptionFr": "Propan-1-o1 or butan-1-o1. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "propan2o1-or-butan2o1",
+      "nameEn": "Propan-2-o1 or butan-2-o1.",
+      "nameFr": "Propan-2-o1 or butan-2-o1.",
+      "description": "High-quality propan-2-o1 or butan-2-o1. for laboratory use",
+      "descriptionFr": "Propan-2-o1 or butan-2-o1. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "isobutyl-alcohol-2methylpropan1o1",
+      "nameEn": "Isobutyl alcohol (2-Methylpropan-1-o1).",
+      "nameFr": "Isobutyl alcohol (2-Methylpropan-1-o1).",
+      "description": "High-quality isobutyl alcohol (2-methylpropan-1-o1). for laboratory use",
+      "descriptionFr": "Isobutyl alcohol (2-Methylpropan-1-o1). de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "tert-butyl-alcohol",
+      "nameEn": "Tert. Butyl alcohol.",
+      "nameFr": "Tert. Butyl alcohol.",
+      "description": "High-quality tert. butyl alcohol. for laboratory use",
+      "descriptionFr": "Tert. Butyl alcohol. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "phenol",
+      "nameEn": "Phenol.",
+      "nameFr": "Phenol.",
+      "description": "High-quality phenol. for laboratory use",
+      "descriptionFr": "Phenol. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "mannitol",
+      "nameEn": "Mannitol.",
+      "nameFr": "Mannitol.",
+      "description": "High-quality mannitol. for laboratory use",
+      "descriptionFr": "Mannitol. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "hexane-nhexane",
+      "nameEn": "Hexane (n-hexane)",
+      "nameFr": "Hexane (n-hexane)",
+      "description": "High-quality hexane (n-hexane) for laboratory use",
+      "descriptionFr": "Hexane (n-hexane) de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "butanol",
+      "nameEn": "Butanol",
+      "nameFr": "Butanol",
+      "description": "High-quality butanol for laboratory use",
+      "descriptionFr": "Butanol de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "cyclohexane",
+      "nameEn": "Cyclohexane.",
+      "nameFr": "Cyclohexane.",
+      "description": "High-quality cyclohexane. for laboratory use",
+      "descriptionFr": "Cyclohexane. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "benzene",
+      "nameEn": "Benzene.",
+      "nameFr": "Benzene.",
+      "description": "High-quality benzene. for laboratory use",
+      "descriptionFr": "Benzene. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "toluene",
+      "nameEn": "Toluene.",
+      "nameFr": "Toluene.",
+      "description": "High-quality toluene. for laboratory use",
+      "descriptionFr": "Toluene. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "xylene",
+      "nameEn": "xylene.",
+      "nameFr": "xylene.",
+      "description": "High-quality xylene. for laboratory use",
+      "descriptionFr": "xylene. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "chloroform",
+      "nameEn": "Chloroform.",
+      "nameFr": "Chloroform.",
+      "description": "High-quality chloroform. for laboratory use",
+      "descriptionFr": "Chloroform. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "carbon-tetrachloride-305",
+      "nameEn": "Carbon tetrachloride.",
+      "nameFr": "Carbon tetrachloride.",
+      "description": "High-quality carbon tetrachloride. for laboratory use",
+      "descriptionFr": "Carbon tetrachloride. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "hydrazine",
+      "nameEn": "Hydrazine",
+      "nameFr": "Hydrazine",
+      "description": "High-quality hydrazine for laboratory use",
+      "descriptionFr": "Hydrazine de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "formaldehyde-solution",
+      "nameEn": "Formaldehyde solution.",
+      "nameFr": "Formaldehyde solution.",
+      "description": "High-quality formaldehyde solution. for laboratory use",
+      "descriptionFr": "Formaldehyde solution. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "acetaldehyde",
+      "nameEn": "Acetaldehyde.",
+      "nameFr": "Acetaldehyde.",
+      "description": "High-quality acetaldehyde. for laboratory use",
+      "descriptionFr": "Acetaldehyde. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ethylamine",
+      "nameEn": "Ethylamine",
+      "nameFr": "Ethylamine",
+      "description": "High-quality ethylamine for laboratory use",
+      "descriptionFr": "Ethylamine de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "benzaldehyde-1",
+      "nameEn": "Benzaldehyde.",
+      "nameFr": "Benzaldehyde.",
+      "description": "High-quality benzaldehyde. for laboratory use",
+      "descriptionFr": "Benzaldehyde. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "propanone",
+      "nameEn": "Propanone.",
+      "nameFr": "Propanone.",
+      "description": "High-quality propanone. for laboratory use",
+      "descriptionFr": "Propanone. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "butanone",
+      "nameEn": "Butanone.",
+      "nameFr": "Butanone.",
+      "description": "High-quality butanone. for laboratory use",
+      "descriptionFr": "Butanone. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "acetophenone",
+      "nameEn": "Acetophenone.",
+      "nameFr": "Acetophenone.",
+      "description": "High-quality acetophenone. for laboratory use",
+      "descriptionFr": "Acetophenone. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "lime-water",
+      "nameEn": "Lime water",
+      "nameFr": "Lime water",
+      "description": "High-quality lime water for laboratory use",
+      "descriptionFr": "Lime water de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ethylamine-solution",
+      "nameEn": "Ethylamine (solution).",
+      "nameFr": "Ethylamine (solution).",
+      "description": "High-quality ethylamine (solution). for laboratory use",
+      "descriptionFr": "Ethylamine (solution). de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "aniline-phenylamine",
+      "nameEn": "Aniline (Phenylamine).",
+      "nameFr": "Aniline (Phenylamine).",
+      "description": "High-quality aniline (phenylamine). for laboratory use",
+      "descriptionFr": "Aniline (Phenylamine). de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "acetanide",
+      "nameEn": "Acetanide.",
+      "nameFr": "Acetanide.",
+      "description": "High-quality acetanide. for laboratory use",
+      "descriptionFr": "Acetanide. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "glucosec6h1206h20",
+      "nameEn": "Glucose.(C6H1206.H20)",
+      "nameFr": "Glucose.(C6H1206.H20)",
+      "description": "High-quality glucose.(c6h1206.h20) for laboratory use",
+      "descriptionFr": "Glucose.(C6H1206.H20) de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sucrose",
+      "nameEn": "Sucrose.",
+      "nameFr": "Sucrose.",
+      "description": "High-quality sucrose. for laboratory use",
+      "descriptionFr": "Sucrose. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "soluble-starch",
+      "nameEn": "Soluble starch.",
+      "nameFr": "Soluble starch.",
+      "description": "High-quality soluble starch. for laboratory use",
+      "descriptionFr": "Soluble starch. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "formic-acid90-wv",
+      "nameEn": "Formic acid.(90% W/V)",
+      "nameFr": "Formic acid.(90% W/V)",
+      "description": "High-quality formic acid.(90% w/v) for laboratory use",
+      "descriptionFr": "Formic acid.(90% W/V) de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "butanoic-acid",
+      "nameEn": "Butanoic acid.",
+      "nameFr": "Butanoic acid.",
+      "description": "High-quality butanoic acid. for laboratory use",
+      "descriptionFr": "Butanoic acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "out-of-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "benzoic-acid",
+      "nameEn": "Benzoic acid",
+      "nameFr": "Benzoic acid",
+      "description": "High-quality benzoic acid for laboratory use",
+      "descriptionFr": "Benzoic acid de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "maleic-acid",
+      "nameEn": "Maleic acid.",
+      "nameFr": "Maleic acid.",
+      "description": "High-quality maleic acid. for laboratory use",
+      "descriptionFr": "Maleic acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "malonic-acid",
+      "nameEn": "Malonic acid.",
+      "nameFr": "Malonic acid.",
+      "description": "High-quality malonic acid. for laboratory use",
+      "descriptionFr": "Malonic acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "mandelic-acid",
+      "nameEn": "Mandelic acid.",
+      "nameFr": "Mandelic acid.",
+      "description": "High-quality mandelic acid. for laboratory use",
+      "descriptionFr": "Mandelic acid. de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "succinic-acid-butanedioic-acid",
+      "nameEn": "Succinic acid (butanedioic acid)",
+      "nameFr": "Succinic acid (butanedioic acid)",
+      "description": "High-quality succinic acid (butanedioic acid) for laboratory use",
+      "descriptionFr": "Succinic acid (butanedioic acid) de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "ethylacetate",
+      "nameEn": "Ethylacetate.",
+      "nameFr": "Ethylacetate.",
+      "description": "High-quality ethylacetate. for laboratory use",
+      "descriptionFr": "Ethylacetate. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sodium-benzoatesodium-benzenecarbo",
+      "nameEn": "Sodium benzoate(sodium benzenecarbo)",
+      "nameFr": "Sodium benzoate(sodium benzenecarbo)",
+      "description": "High-quality sodium benzoate(sodium benzenecarbo) for laboratory use",
+      "descriptionFr": "Sodium benzoate(sodium benzenecarbo) de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "biphenyl",
+      "nameEn": "Biphenyl.",
+      "nameFr": "Biphenyl.",
+      "description": "High-quality biphenyl. for laboratory use",
+      "descriptionFr": "Biphenyl. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "24dinitrophenylhydrazine-24dnph",
+      "nameEn": "2,4-dinitrophenylhydrazine; 2,4-DNPH.",
+      "nameFr": "2,4-dinitrophenylhydrazine; 2,4-DNPH.",
+      "description": "High-quality 2,4-dinitrophenylhydrazine; 2,4-dnph. for laboratory use",
+      "descriptionFr": "2,4-dinitrophenylhydrazine; 2,4-DNPH. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "camphord-camphor",
+      "nameEn": "Camphor.(D Camphor)",
+      "nameFr": "Camphor.(D Camphor)",
+      "description": "High-quality camphor.(d camphor) for laboratory use",
+      "descriptionFr": "Camphor.(D Camphor) de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "naphthalene",
+      "nameEn": "Naphthalene.",
+      "nameFr": "Naphthalene.",
+      "description": "High-quality naphthalene. for laboratory use",
+      "descriptionFr": "Naphthalene. de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "fehling-solution-a",
+      "nameEn": "Fehling solution A",
+      "nameFr": "Fehling solution A",
+      "description": "High-quality fehling solution a for laboratory use",
+      "descriptionFr": "Fehling solution A de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "fehling-solution-b",
+      "nameEn": "Fehling solution B",
+      "nameFr": "Fehling solution B",
+      "description": "High-quality fehling solution b for laboratory use",
+      "descriptionFr": "Fehling solution B de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "benedicts-solution",
+      "nameEn": "Benedict’s Solution",
+      "nameFr": "Benedict’s Solution",
+      "description": "High-quality benedict’s solution for laboratory use",
+      "descriptionFr": "Benedict’s Solution de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "millons-reagent",
+      "nameEn": "Millons reagent",
+      "nameFr": "Millons reagent",
+      "description": "High-quality millons reagent for laboratory use",
+      "descriptionFr": "Millons reagent de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "low-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "iodine-solution",
+      "nameEn": "Iodine solution",
+      "nameFr": "Iodine solution",
+      "description": "High-quality iodine solution for laboratory use",
+      "descriptionFr": "Iodine solution de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "sudan-iii",
+      "nameEn": "Sudan III",
+      "nameFr": "Sudan III",
+      "description": "High-quality sudan iii for laboratory use",
+      "descriptionFr": "Sudan III de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "butylamine",
+      "nameEn": "Butylamine",
+      "nameFr": "Butylamine",
+      "description": "High-quality butylamine for laboratory use",
+      "descriptionFr": "Butylamine de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "2hydroxy-benzoic-acid",
+      "nameEn": "2-hydroxy benzoic acid",
+      "nameFr": "2-hydroxy benzoic acid",
+      "description": "High-quality 2-hydroxy benzoic acid for laboratory use",
+      "descriptionFr": "2-hydroxy benzoic acid de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "acrylamide",
+      "nameEn": "Acrylamide",
+      "nameFr": "Acrylamide",
+      "description": "High-quality acrylamide for laboratory use",
+      "descriptionFr": "Acrylamide de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "dfructose",
+      "nameEn": "D-fructose",
+      "nameFr": "D-fructose",
+      "description": "High-quality d-fructose for laboratory use",
+      "descriptionFr": "D-fructose de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "out-of-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "tartaric-acid",
+      "nameEn": "Tartaric acid",
+      "nameFr": "Tartaric acid",
+      "description": "High-quality tartaric acid for laboratory use",
+      "descriptionFr": "Tartaric acid de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "methyl-benzene",
+      "nameEn": "Methyl benzene",
+      "nameFr": "Methyl benzene",
+      "description": "High-quality methyl benzene for laboratory use",
+      "descriptionFr": "Methyl benzene de haute qualité pour usage en laboratoire",
+      "category": "chemicals",
+      "icon": "⚗️",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "chemicals",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "propanol",
+      "nameEn": "Propanol",
+      "nameFr": "Propanol",
+      "description": "High-quality propanol for laboratory use",
+      "descriptionFr": "Propanol de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "2-methyl-propan-2-ol",
+      "nameEn": "2 methyl propan 2 ol",
+      "nameFr": "2 methyl propan 2 ol",
+      "description": "High-quality 2 methyl propan 2 ol for laboratory use",
+      "descriptionFr": "2 methyl propan 2 ol de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "low-stock",
+      "featured": true,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "benzaldehyde-2",
+      "nameEn": "Benzaldehyde",
+      "nameFr": "Benzaldehyde",
+      "description": "High-quality benzaldehyde for laboratory use",
+      "descriptionFr": "Benzaldehyde de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "magnesium-ribbon",
+      "nameEn": "Magnesium Ribbon",
+      "nameFr": "Magnesium Ribbon",
+      "description": "High-quality magnesium ribbon for laboratory use",
+      "descriptionFr": "Magnesium Ribbon de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    },
+    {
+      "id": "filter-paper110mm-pks",
+      "nameEn": "Filter Paper(110mm) pks",
+      "nameFr": "Filter Paper(110mm) pks",
+      "description": "High-quality filter paper(110mm) pks for laboratory use",
+      "descriptionFr": "Filter Paper(110mm) pks de haute qualité pour usage en laboratoire",
+      "category": "tools",
+      "icon": "🔧",
+      "stockStatus": "in-stock",
+      "featured": false,
+      "tags": [
+        "tools",
+        "laboratory",
+        "equipment"
+      ]
+    }
+  ]
+}

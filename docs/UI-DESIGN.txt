@@ -1,0 +1,150 @@
+UI Design Specification (Text)
+
+Audience: product, design, and engineering. Wireframe-level specification focusing on structure, components, and behaviors.
+
+Information architecture
+- Global navigation
+  - Home
+  - Farmhouse
+  - Enterprise
+  - Intelligence
+  - Resorts
+  - Blog
+  - Contact
+- Utility
+  - Language switcher (EN/FR)
+  - Search
+  - Admin (authenticated link)
+
+Layout system
+- Grid: 12-column, 4/8/12 gutters, max content width 1280px
+- Breakpoints: sm 640, md 768, lg 1024, xl 1280, 2xl 1536
+- Spacing scale: 4, 8, 12, 16, 20, 24, 32, 40, 48, 64
+- Container padding: 16 (mobile), 24 (tablet), 32 (desktop)
+
+Design tokens
+- Typography
+  - Font families: Inter (default), Geist Mono (code)
+  - Scale: 12, 14, 16, 18, 20, 24, 30, 36, 48, 60, 72
+  - Line-height: 1.3 (display), 1.5 (body)
+- Color
+  - Primary: hsl(221 83% 53%)
+  - Accent: hsl(174 84% 40%)
+  - Neutral: hsl(0 0% 7%..98%)
+  - Status: success/warning/error with WCAG AA contrast
+- Elevation
+  - Shadows: xs/sm/md/lg (subtle)
+- Radius
+  - 4, 8, 12, 16
+
+Components (shared)
+- AppShell: Header, Nav, Content, Footer
+- Header: sticky, 64px; includes logo, nav, language, search
+- Nav: desktop mega-menu for divisions; mobile drawer
+- Hero: image/video, eyebrow, headline, CTA pair
+- Section: title, subtitle, content slots; background variants
+- Card: media, title, meta, action; variants: product, service, article, event
+- DataTable: sortable, pageable; accessible keyboard navigation
+- Tabs/Accordion: Radix primitives; motion via Framer Motion
+- Forms: Input, Select, Textarea, DatePicker, Checkbox, Radio, FileUpload with validation messages
+- Feedback: Toast, Banner, EmptyState, Skeleton
+- Modal/Drawer: focus trap, escape-to-close, scroll lock
+- Breadcrumb: on deep pages
+- Footer: sitemap links, social, legal
+
+Page inventory (public)
+- Home
+  - Hero carousel of four divisions
+  - Quick links to Admin tools (if authenticated)
+- Farmhouse
+  - Overview intro
+  - Scorpion Farm, BSF Farm, Fish Farm subsections with galleries
+  - Events listing
+- Enterprise
+  - Product catalog (filter by category)
+  - Laboratory designs (portfolio grid)
+  - STEM education programs (cards)
+- Intelligence
+  - IT services, Data Center, Security Consulting summaries
+  - Distance Learning, LMS course list
+  - Inquiry CTA
+- Resorts
+  - Agro-tourism, Animal Sanctuary, Roadhouse menu, Hospitality, Outdoor Games, Holiday & Camping
+  - Booking/inquiry CTA
+- Blog
+  - Posts list, categories, tags
+- Contact
+  - Contact form, map, newsletter subscription
+
+Admin dashboard (private)
+- Overview
+  - KPIs: traffic, submissions, content status
+- Content modules
+  - Employee management: tasks, reports
+  - Job management: jobs, applications, pipeline
+  - Event management: calendar, registrations
+  - Blog management: posts, categories, tags
+  - Media management: galleries, assets
+  - Courses (LMS): create/update/archive
+  - Menus (Resorts): items, pricing, specials
+  - Settings: locales, SEO defaults, roles
+
+Interaction patterns
+- Forms: inline validation on blur; submit-level summary; prevent duplicate submits
+- Lists: optimistic updates with rollback on error
+- Loading: skeletons for lists, spinners for one-off actions
+- Errors: human-readable, guidance, retry if possible
+- Auth: redirect unauthenticated admin access to sign-in
+
+Motion
+- Durations: 150–250ms for UI, 400–700ms for page/hero
+- Easing: standard (0.2, 0, 0, 1), entrance from subtle translate+fade
+- Reduce motion: respect prefers-reduced-motion
+
+Accessibility
+- WCAG 2.1 AA targets
+- Keyboard: tab order logical; visible focus outlines
+- Contrast: text ≥ 4.5:1; large text ≥ 3:1
+- Labels: inputs have associated labels; error text with aria-live
+- Semantics: landmarks, headings hierarchy, alt text
+
+SEO
+- Titles, meta description per page; canonical URLs
+- Open Graph/Twitter cards with fallback image
+- Structured data: Organization, Product, Article, Event where relevant
+
+Content guidelines
+- Tone: professional, clear, concise
+- Microcopy: action-oriented CTAs
+- Internationalization: no hardcoded strings; EN/FR parity
+
+Assets
+- Images: WebP/AVIF preferred; responsive sizes via Next/Image
+- Icons: Lucide or Radix Icons; consistent stroke
+- Illustrations: light, geometric; avoid heavy skeuomorphism
+
+Error and empty states
+- 404: friendly copy, search, popular links
+- 500: apology, retry, contact
+- Empty list: explain purpose + primary CTA
+
+Example content structure (wireframe-level)
+- Home (desktop)
+  - Header
+  - Hero (carousel – 4 slides)
+  - Four feature tiles (one per division)
+  - Latest: events, blog
+  - CTA band (contact/newsletter)
+  - Footer
+- Division page (e.g., Enterprise)
+  - Hero (headline + imagery)
+  - Overview blurb
+  - Sub-feature sections (catalog, designs, STEM)
+  - Testimonials/case studies
+  - Contact CTA
+- Admin Dashboard
+  - Sidebar nav (modules)
+  - Top bar (search, user menu)
+  - Content area (cards/tables/forms)
+
+

@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "designs": "Designs",
+    "stem": "STEM Programs",
+    "laboratories": "Laboratories",
+    "support": "Support",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Systems That Power Africa's Future",
+      "subtitle": "Empowering STEM education through innovative laboratory design, scientific equipment, and immersive learning environments across Africa."
+    },
+    "hero": {
+      "cta": {
+        "primary": "Explore Equipment",
+        "secondary": "Contact Us"
+      }
+    },
+    "services": {
+      "title": "Our Core Services",
+      "subtitle": "Beyond Infrastructure: A Gateway to Scientific Discovery",
+      "labDesign": {
+        "title": "Laboratory Design",
+        "description": "Custom-built science labs with modern technology and smart design.",
+        "cta": "View Designs"
+      },
+      "equipment": {
+        "title": "Scientific Equipment",
+        "description": "Modern, durable scientific equipment for educational institutions.",
+        "cta": "Browse Catalog"
+      },
+      "stem": {
+        "title": "STEM Education",
+        "description": "Hands-on learning programs and cognitive development initiatives.",
+        "cta": "Learn More"
+      }
+    },
+    "audience": {
+      "title": "Who We Serve",
+      "subtitle": "Opening our laboratories to aspiring scientists across Africa",
+      "evening": {
+        "title": "Evening School Students",
+        "description": "Seeking hands-on experience to complement their studies"
+      },
+      "enthusiasts": {
+        "title": "Science Enthusiasts",
+        "description": "Who lack formal education access but have discovery passion"
+      },
+      "practical": {
+        "title": "Practical Learners",
+        "description": "Needing extra sessions through modern, interactive formats"
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform STEM Education?",
+      "subtitle": "Contact us today to discuss your laboratory design and equipment needs.",
+      "button": "Get Started"
+    }
+  },
+  "catalog": {
+    "title": "Equipment Catalog",
+    "description": "Browse our comprehensive collection of scientific equipment and laboratory supplies."
+  },
+  "designs": {
+    "title": "Laboratory Designs",
+    "description": "Explore our portfolio of custom laboratory designs and case studies."
+  },
+  "stem": {
+    "title": "STEM Programs",
+    "description": "Discover our educational programs designed to inspire the next generation of scientists."
+  },
+  "laboratories": {
+    "title": "Broadway Laboratories",
+    "description": "Visit our state-of-the-art laboratory facilities and access programs."
+  },
+  "footer": {
+    "tagline": "Systems That Power Africa's Future — Agriculture, Science, Technology & Hospitality",
+    "quickLinks": "Quick Links",
+    "catalog": "Equipment Catalog",
+    "designs": "Laboratory Designs",
+    "stemPrograms": "STEM Programs",
+    "laboratories": "Laboratories",
+    "support": "Support",
+    "technicalSupport": "Technical Support",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contactInfo": "Contact Information"
+  }
+}
