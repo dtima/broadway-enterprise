@@ -1,6 +1,7 @@
 import { Inter } from 'next/font/google';
 import { Header } from '@/components/layout/header';
 import { Footer } from '@/components/layout/footer';
+import { PromotionalPopup } from '@/components/ui/promotional-popup';
 import { StaticAuthProvider } from '@/lib/auth/auth-context-static';
 import { StaticI18nProvider } from '@/lib/i18n/pure-static';
 import { getStaticMessages } from '@/lib/i18n/server-messages';
@@ -32,6 +33,7 @@ export default async function LocaleLayout({
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <PromotionalPopup />
         </div>
       </StaticAuthProvider>
     </StaticI18nProvider>
