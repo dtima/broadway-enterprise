@@ -25,6 +25,20 @@ import {
 } from 'lucide-react';
 import { useAuth } from '@/lib/auth/auth-context';
 import { ProtectedRoute } from '@/components/auth/protected-route';
+import { Permission } from '@/lib/auth/rbac';
+
+// Mock functions for profile and password updates
+const updateProfile = async (profileData: ProfileForm) => {
+  // Simulate API call
+  await new Promise(resolve => setTimeout(resolve, 1000));
+  console.log('Profile updated:', profileData);
+};
+
+const changePassword = async (currentPassword: string, newPassword: string) => {
+  // Simulate API call
+  await new Promise(resolve => setTimeout(resolve, 1000));
+  console.log('Password changed');
+};
 
 interface ProfileForm {
   firstName: string;
@@ -695,7 +709,7 @@ function ProfilePage() {
 
 export default function ProfilePageWrapper() {
   return (
-    <ProtectedRoute requiredPermissions={['user:read']}>
+    <ProtectedRoute requiredPermission={Permission.VIEW_USERS}>
       <ProfilePage />
     </ProtectedRoute>
   );
