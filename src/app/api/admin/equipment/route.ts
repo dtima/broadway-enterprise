@@ -45,7 +45,7 @@ export async function POST(request: NextRequest) {
       ...productData,
       createdAt: new Date(),
       updatedAt: new Date(),
-      createdBy: authResult.user.uid,
+      createdBy: authResult.user?.uid || '',
     });
 
     return NextResponse.json({
