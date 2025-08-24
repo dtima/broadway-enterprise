@@ -175,7 +175,7 @@ export default function ContactPage() {
               Get in touch with our team of experts. We're here to help with your laboratory needs, 
               STEM programs, and any questions you may have.
             </p>
-        </div>
+          </div>
 
         <div className="grid gap-8 lg:grid-cols-3">
           {/* Contact Information */}
@@ -489,6 +489,7 @@ export default function ContactPage() {
               </CardContent>
             </Card>
           </div>
+        </div>
         </div>
       </div>
     </main>

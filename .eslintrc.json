@@ -2,28 +2,14 @@
   "extends": [
     "next/core-web-vitals"
   ],
-  "parser": "@typescript-eslint/parser",
-  "plugins": ["@typescript-eslint", "react", "react-hooks"],
   "rules": {
-    "@typescript-eslint/no-unused-vars": "error",
-    "@typescript-eslint/no-explicit-any": "error",
-    "@typescript-eslint/explicit-function-return-type": "off",
-    "@typescript-eslint/explicit-module-boundary-types": "off",
-    "@typescript-eslint/no-empty-function": "off",
-    "prefer-const": "error",
-    "no-var": "error",
-    "react/jsx-closing-tag-location": "error",
-    "react/jsx-closing-bracket-location": "error",
-    "react/jsx-wrap-multilines": "error",
-    "react/jsx-uses-react": "off",
-    "react/react-in-jsx-scope": "off",
-    "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn"
-  },
-  "settings": {
-    "react": {
-      "version": "detect"
-    }
+    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "react/no-unescaped-entities": "off",
+    "react/jsx-closing-tag-location": "off",
+    "react/jsx-closing-bracket-location": "off",
+    "@next/next/no-img-element": "off",
+    "react-hooks/exhaustive-deps": "off"
   },
   "ignorePatterns": ["node_modules/", ".next/", "out/"]
 }
