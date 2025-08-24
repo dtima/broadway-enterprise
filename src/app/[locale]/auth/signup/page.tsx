@@ -141,14 +141,8 @@ export default function SignUpPage() {
     setErrorMessage('');
 
     try {
-      await signUp({
-        email: formData.email,
-        password: formData.password,
-        firstName: formData.firstName,
-        lastName: formData.lastName,
-        organization: formData.organization,
-        role: formData.role
-      });
+      const displayName = `${formData.firstName} ${formData.lastName}`;
+      await signUp(formData.email, formData.password, displayName);
       setSubmitStatus('success');
       // Redirect to email verification page or dashboard
       router.push('/auth/verify-email');
